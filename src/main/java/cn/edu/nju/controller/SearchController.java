@@ -33,7 +33,7 @@ public class SearchController {
 
     @RequestMapping("/search")
     public List<GoodInfo> search(@RequestParam String key){
-
+        System.out.println("key:"+key);
         if(StringUtils.isEmpty(key)){
             return new ArrayList<>();
         }
