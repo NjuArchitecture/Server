@@ -46,3 +46,13 @@ html, body, content{
     text-align: center;
     line-height: 37px;
 }
+#not-found-div{
+    width: 120px;
+    margin: 0 auto;
+    display: none;
+}
+#not-found-div div{
+    font-size: 20px;
+    color: #888;
+
+}

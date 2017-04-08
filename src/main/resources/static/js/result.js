@@ -14,6 +14,13 @@ function initData() {
     $.ajax({
         url: url,
         success: function (data) {
+            if (data.length != 0){
+                $('#not-found-div').hide();
+
+            }else {
+                $('#not-found-div').show();
+
+            }
             goodData = data;
             for (let x of data){
                 addCard(x);
