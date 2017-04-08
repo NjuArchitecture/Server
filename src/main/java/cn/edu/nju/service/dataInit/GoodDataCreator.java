@@ -70,6 +70,7 @@ public class GoodDataCreator {
         goodInfo.setPic1(pic1);
         goodInfo.setPic2(pic2);
         goodInfo.setPrice(price);
+        goodInfo.setSourceName(url);
 
         return goodInfo;
     }

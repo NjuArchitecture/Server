@@ -35,6 +35,5 @@ public class DataInitializer implements CommandLineRunner{
 
         searchDataRepository.save(goodInfos);
 
-
     }
 }
