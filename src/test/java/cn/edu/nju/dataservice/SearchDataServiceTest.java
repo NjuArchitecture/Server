@@ -68,10 +68,10 @@ public class SearchDataServiceTest {
 
     @Test
     public void searchInTitle() throws Exception {
-        persist();
-        List<GoodInfo> result = searchDataService.search("Huawei");
-        List<GoodInfo> result2 = searchDataService.searchInTitle("huawei");
-        List<GoodInfo> result3 = searchDataService.searchInDescription("huawei");
+//        persist();
+        List<GoodInfo> result = searchDataService.search("小米");
+//        List<GoodInfo> result2 = searchDataService.searchInTitle("huawei");
+//        List<GoodInfo> result3 = searchDataService.searchInDescription("huawei");
 //        Iterable<GoodInfo> result = searchDataRepository.findAll();
         result.forEach(System.out::println);
 

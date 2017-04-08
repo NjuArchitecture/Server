@@ -25,14 +25,12 @@ public class DataInitializer implements CommandLineRunner{
     @Override
     public void run(String... strings) throws Exception {
 
-        if(searchDataRepository.count()>0){
+        if(searchDataRepository.count()>20){
             return;
         }
 
         goodDataCreator = new GoodDataCreator();
         List<GoodInfo> goodInfos = goodDataCreator.create();
-
         searchDataRepository.save(goodInfos);
-
     }
 }
