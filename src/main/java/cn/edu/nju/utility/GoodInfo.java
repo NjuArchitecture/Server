@@ -16,15 +16,17 @@ public class GoodInfo {
     private String pic1;
     private String pic2;
     private double price;
-    private String source;
+    private String sourceName;
+    private String sourceURL;
 
-    public GoodInfo(String title, String description, String pic1, String pic2, double price, String source) {
+    public GoodInfo(String title, String description, String pic1, String pic2, double price, String sourceName, String sourceURL) {
         this.title = title;
         this.description = description;
         this.pic1 = pic1;
         this.pic2 = pic2;
         this.price = price;
-        this.source = source;
+        this.sourceName = sourceName;
+        this.sourceURL = sourceURL;
     }
 
     public GoodInfo() {
@@ -38,12 +40,12 @@ public class GoodInfo {
     }
 
 
-    public String getSource() {
-        return source;
+    public String getSourceName() {
+        return sourceName;
     }
 
-    public void setSource(String source) {
-        this.source = source;
+    public void setSourceName(String sourceName) {
+        this.sourceName = sourceName;
     }
 
     @Override
@@ -52,6 +54,13 @@ public class GoodInfo {
                 this.title, this.description);
     }
 
+    public String getSourceURL() {
+        return sourceURL;
+    }
+
+    public void setSourceURL(String sourceURL) {
+        this.sourceURL = sourceURL;
+    }
 
     public String getTitle() {
         return title;

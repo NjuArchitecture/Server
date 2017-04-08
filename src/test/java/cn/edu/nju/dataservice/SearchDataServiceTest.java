@@ -56,12 +56,12 @@ public class SearchDataServiceTest {
 
         List<GoodInfo> goodInfos = new ArrayList<>();
 
-        goodInfos.add(new GoodInfo("asd  asdf" ,  " a huawei phone" , "d" , "s" , 300));
+        goodInfos.add(new GoodInfo("asd  asdf" ,  " a huawei phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
 
-        goodInfos.add(new GoodInfo(" Huawei asdf" ,  " a huawei phone" , "d" , "s" , 300));
-        goodInfos.add(new GoodInfo(" Huawei2 asdf" ,  " a huawei2 phone" , "d" , "s" , 300));
-        goodInfos.add(new GoodInfo("asd Huawei3 asdf" ,  " a huawei3 phone" , "d" , "s" , 300));
-        goodInfos.add(new GoodInfo("asd Huawei4 asdf" ,  " a huawei4 phone" , "d" , "s" , 300));
+        goodInfos.add(new GoodInfo(" Huawei asdf" ,  " a huawei phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
+        goodInfos.add(new GoodInfo(" Huawei2 asdf" ,  " a huawei2 phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
+        goodInfos.add(new GoodInfo("asd Huawei3 asdf" ,  " a huawei3 phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
+        goodInfos.add(new GoodInfo("asd Huawei4 asdf" ,  " a huawei4 phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
 
         searchDataService.persist(goodInfos);
     }

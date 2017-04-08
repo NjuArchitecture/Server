@@ -13,13 +13,14 @@ public class Comment {
     private String id;
 
     private String content;
-
+    private String time;
     private String userName;
     private String goodsID;
 
 
-    public Comment(String content, String userName, String goodsID) {
+    public Comment(String content, String time, String userName, String goodsID) {
         this.content = content;
+        this.time = time;
         this.userName = userName;
         this.goodsID = goodsID;
     }
@@ -57,5 +58,13 @@ public class Comment {
 
     public void setUserName(String userName) {
         this.userName = userName;
+    }
+
+    public String getTime() {
+        return time;
+    }
+
+    public void setTime(String time) {
+        this.time = time;
     }
 }
