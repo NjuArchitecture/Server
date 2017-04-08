@@ -16,14 +16,17 @@ public class GoodInfo {
     private String pic1;
     private String pic2;
     private double price;
+    private String source;
 
-    public GoodInfo(String title, String description, String pic1, String pic2, double price) {
+    public GoodInfo(String title, String description, String pic1, String pic2, double price, String source) {
         this.title = title;
         this.description = description;
         this.pic1 = pic1;
         this.pic2 = pic2;
         this.price = price;
+        this.source = source;
     }
+
     public GoodInfo() {
     }
     public String getId() {
@@ -34,6 +37,14 @@ public class GoodInfo {
         this.id = id;
     }
 
+
+    public String getSource() {
+        return source;
+    }
+
+    public void setSource(String source) {
+        this.source = source;
+    }
 
     @Override
     public String toString() {
