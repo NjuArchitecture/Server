@@ -1,7 +1,6 @@
 package cn.edu.nju.service.dataInit;
 
 import cn.edu.nju.dataservice.CommentDataService;
-import cn.edu.nju.dataservice.SearchDataService;
 import cn.edu.nju.dataservice.dao.SearchDataRepository;
 import cn.edu.nju.utility.GoodInfo;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -31,7 +30,7 @@ public class DataInitializer implements CommandLineRunner{
         }
 
         goodDataCreator = new GoodDataCreator();
-        List<GoodInfo> goodInfos = goodDataCreator.createGoodData();
+        List<GoodInfo> goodInfos = goodDataCreator.create();
 
         searchDataRepository.save(goodInfos);
 

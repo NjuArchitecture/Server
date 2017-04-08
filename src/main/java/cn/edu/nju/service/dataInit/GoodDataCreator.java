@@ -21,7 +21,7 @@ public class GoodDataCreator {
 
     private String[] filePaths = {"initData/apple_phone.txt","initData/mi_phone.txt"};
 
-    public List<GoodInfo> createGoodData(){
+    public List<GoodInfo> create(){
 
         List<GoodInfo> result = new ArrayList<>();
         for(String filePath:filePaths){
@@ -70,7 +70,8 @@ public class GoodDataCreator {
         goodInfo.setPic1(pic1);
         goodInfo.setPic2(pic2);
         goodInfo.setPrice(price);
-        goodInfo.setSourceName(url);
+        goodInfo.setSourceName("京东");
+        goodInfo.setSourceURL(url);
 
         return goodInfo;
     }
