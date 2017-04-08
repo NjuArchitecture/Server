@@ -41,7 +41,7 @@ public class SearchDataServiceTest {
 
     @After
     public void tearDown() throws Exception {
-        searchDataService.empty();
+//        searchDataService.empty();
     }
 
 

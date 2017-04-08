@@ -12,4 +12,10 @@ public interface SearchService {
 
     List<GoodInfo> search(String key);
 
+    List<GoodInfo> searchInTitle(String key);
+
+    List<GoodInfo> searchInDescription(String key);
+
+
+
 }

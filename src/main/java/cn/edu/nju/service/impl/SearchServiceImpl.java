@@ -15,13 +15,28 @@ import java.util.List;
 @Service
 public class SearchServiceImpl implements SearchService {
 
-    @Autowired
+    private final
     SearchDataService searchDataService;
+
+    @Autowired
+    public SearchServiceImpl(SearchDataService searchDataService) {
+        this.searchDataService = searchDataService;
+    }
 
     @Override
     public List<GoodInfo> search(String key) {
         List<GoodInfo> goodInfos = searchDataService.search(key);
         return goodInfos;
+    }
+
+    @Override
+    public List<GoodInfo> searchInTitle(String key) {
+        return searchDataService.searchInTitle(key);
+    }
+
+    @Override
+    public List<GoodInfo> searchInDescription(String key) {
+        return searchDataService.searchInDescription(key);
     }
 
 }

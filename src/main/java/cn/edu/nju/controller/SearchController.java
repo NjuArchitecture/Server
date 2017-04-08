@@ -1,6 +1,8 @@
 package cn.edu.nju.controller;
 
+import cn.edu.nju.service.CommentService;
 import cn.edu.nju.service.SearchService;
+import cn.edu.nju.utility.Comment;
 import cn.edu.nju.utility.GoodInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -17,8 +19,17 @@ import java.util.List;
 @ResponseBody
 public class SearchController {
 
-    @Autowired
+    private final
     SearchService searchService;
+
+    private final
+    CommentService commentService;
+
+    @Autowired
+    public SearchController(SearchService searchService, CommentService commentService) {
+        this.searchService = searchService;
+        this.commentService = commentService;
+    }
 
     @RequestMapping("/search")
     public List<GoodInfo> search(@RequestParam String key){
@@ -30,5 +41,40 @@ public class SearchController {
         return searchService.search(key);
 
     }
+
+    @RequestMapping("/searchInTitle")
+    public List<GoodInfo> searchInTitle(@RequestParam String key){
+
+        if(StringUtils.isEmpty(key)){
+            return new ArrayList<>();
+        }
+
+        return searchService.searchInTitle(key);
+
+    }
+
+    @RequestMapping("/searchInDescription")
+    public List<GoodInfo> searchInDescription(@RequestParam String key){
+
+        if(StringUtils.isEmpty(key)){
+            return new ArrayList<>();
+        }
+
+        return searchService.searchInDescription(key);
+
+    }
+
+    @RequestMapping("/getComment")
+    public List<Comment> getComment(String goodID){
+
+        if(StringUtils.isEmpty(goodID)){
+            return new ArrayList<>();
+        }
+
+        return commentService.getGoodComment(goodID);
+
+    }
+
+
 
 }
