@@ -62,14 +62,22 @@ public class SearchDataServiceImpl implements SearchDataService {
 
             return searchWithMultiKeyWords(DESCRIPTION, getKeys(key));
     }
+
+    @Override
+    public List<GoodInfo> findAll() {
+        List<GoodInfo> goodInfos = new ArrayList<>(3000);
+        searchDataRepository.findAll().forEach(goodInfos::add);
+        return goodInfos;
+    }
+
     private static List<String> getKeys(String key) {
         String[] splits = key.split(" ");
         List<String> keys = new ArrayList<>(splits.length);
         Collections.addAll(keys, splits);
         return keys;
     }
-    @Override
-    public List<GoodInfo> searchWithMultiKeyWords(String field , List<String> keys) {
+
+    private List<GoodInfo> searchWithMultiKeyWords(String field , List<String> keys) {
         NativeSearchQueryBuilder builder = new NativeSearchQueryBuilder();
 
         for (String key: keys) {
@@ -80,8 +88,8 @@ public class SearchDataServiceImpl implements SearchDataService {
         return elasticsearchTemplate.queryForList(builder.build(), GoodInfo.class);
     }
 
-    @Override
-    public List<GoodInfo> searchWithMultiKeyWords(List<String> keys) {
+
+    private List<GoodInfo> searchWithMultiKeyWords(List<String> keys) {
         NativeSearchQueryBuilder builder = new NativeSearchQueryBuilder();
 
         for (String key: keys) {

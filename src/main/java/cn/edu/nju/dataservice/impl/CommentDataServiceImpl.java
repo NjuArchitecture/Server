@@ -50,6 +50,11 @@ public class CommentDataServiceImpl implements CommentDataService {
     }
 
     @Override
+    public void persist(List<Comment> comments) {
+        commentRepository.save(comments);
+    }
+
+    @Override
     public void empty() {
         commentRepository.deleteAll();
     }

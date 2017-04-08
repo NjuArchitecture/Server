@@ -16,6 +16,8 @@ public interface CommentDataService {
     List<Comment> getSomeForShow(int size);
 
     List<Comment> getSomeForShow();
+    //注意要传入 商品的id， id可以先用 searchDataService 的 getAll 方法，然后再插数据
+    void persist(List<Comment> comments);
 
     void empty();
 }

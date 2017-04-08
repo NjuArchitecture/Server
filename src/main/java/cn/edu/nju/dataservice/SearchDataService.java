@@ -9,18 +9,35 @@ import java.util.List;
  * @since 08/04/2017
  */
 public interface SearchDataService {
-
+    /**
+     * 搜索
+     * @param key 可以用空格隔开多个关键字，为模糊搜索
+     * @return
+     */
     List<GoodInfo> search(String key);
 
+    /**
+     * 存储商品信息
+     * @param goods
+     */
     void persist(List<GoodInfo> goods);
 
+    /**
+     * 仅在标题中搜索
+     * @param key 可以用空格隔开多个关键字，为模糊搜索
+     * @return
+     */
     List<GoodInfo> searchInTitle(String key);
 
+    /**
+     * 仅在描述中搜索
+     * @param key 可以用空格隔开多个关键字，为模糊搜索
+     * @return
+     */
     List<GoodInfo> searchInDescription(String key);
 
-    List<GoodInfo> searchWithMultiKeyWords(String field, List<String> keys);
+    List<GoodInfo> findAll();
 
-    List<GoodInfo> searchWithMultiKeyWords(List<String> keys);
     //Only for test!!!!
     void empty();
 
