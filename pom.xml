@@ -45,6 +45,25 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>PipeProject</groupId>
+            <artifactId>PipeProject</artifactId>
+            <version>PipeProject</version>
+        </dependency>
+
     </dependencies>
+
+
+    <repositories>
+        <repository>
+            <id>aibijia-repo</id>
+            <name>aibijia repo</name>
+            <url>http://115.159.41.136:8081/artifactory/libs-release</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
 
 </project>
