@@ -1,0 +1,1120 @@
+<ul class="gl-warp clearfix" data-tpl="3"><li class="gl-item" data-sku="3742076" data-spu="3311953" data-pid="3311953">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/3742098.html" onclick="searchlog(1,3742076,0,2,'','flagsClk=2052067976')" title="无孔式超声波指纹识别，超感光相机 ，高通骁龙 821处理器！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img13.360buyimg.com/n7/jfs/t3460/2/995144814/199069/d0cb0224/5819b279N77e81d78.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="" title="银色"><img data-sku="3742076" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img11.360buyimg.com/n9/jfs/t3217/99/2978816326/256547/faf98e40/57ea2fbaN71d47509.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="哑光深灰" class="curr"><img data-sku="3742098" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img13.360buyimg.com/n9/jfs/t3460/2/995144814/199069/d0cb0224/5819b279N77e81d78.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="4106330" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img10.360buyimg.com/n9/jfs/t3349/361/1818822106/241315/7a0833ae/5835536bN74f0979b.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="哑光金"><img data-sku="3701781" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img11.360buyimg.com/n9/jfs/t3361/206/1956093146/236604/f9a4f245/5837e160N6014925f.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_3742076" data-price="1999.00" data-done="1"><em>￥</em><i>1999.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="无孔式超声波指纹识别，超感光相机 ，高通骁龙 821处理器！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/3742098.html" onclick="searchlog(1,3742076,0,1,'','flagsClk=2052067976')">
+				<em>小米（MI） 小米5S</em>
+				<i class="promo-words" id="J_AD_3742076">无孔式超声波指纹识别，超感光相机 ，高通骁龙 821处理器！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<a target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=30681" class="spu-link">二手有售 &gt;</a>
+			<strong>已有<a id="J_comment_3742076" target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=30681" onclick="searchlog(1,3742076,0,3,'','flagsClk=2052067976')">13万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="3742098" href="javascript:;" title="点击关注" onclick="searchlog(1,3742076,0,5,'','flagsClk=2052067976')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="96" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_3742076">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="4032215" data-spu="3846673" data-pid="3846673">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+
+			<a target="_blank" href="//item.jd.com/4032215.html" onclick="searchlog(1,4032215,1,2,'','flagsClk=2017464968')" title="4月6日0点正式开抢！10核处理器！4100mAh大电池长续航！5.5英寸全高清大屏！传送门：更多惊喜，【猛猛戳我】">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img10.360buyimg.com/n7/jfs/t4654/168/1282864375/229137/fd5fc48e/58dc6757Na52ed7b2.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="0" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="4032215" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img10.360buyimg.com/n9/jfs/t4654/168/1282864375/229137/fd5fc48e/58dc6757Na52ed7b2.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="樱花粉"><img data-sku="3920937" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img12.360buyimg.com/n9/jfs/t3268/67/7181309756/210833/3752e358/58b51261N6a3e5316.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="铂银灰"><img data-sku="4390094" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img14.360buyimg.com/n9/jfs/t3202/123/8250886546/288930/344a8cb4/58c0ffe6Nbbc61520.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="黑色"><img data-sku="4390096" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img11.360buyimg.com/n9/jfs/t3076/42/8593902551/206108/fdb1a60f/58c60fc3Nf9faa2fa.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_4032215" data-price="1299.00" data-done="1"><em>￥</em><i>1299.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="4月6日0点正式开抢！10核处理器！4100mAh大电池长续航！5.5英寸全高清大屏！传送门：更多惊喜，【猛猛戳我】" href="//item.jd.com/4032215.html" onclick="searchlog(1,4032215,1,1,'','flagsClk=2017464968')">
+				<em><font class="skcolor_ljg">小米</font> 红米Note4X 全网通版 4GB+64GB 香槟金 移动联通电信4G<font class="skcolor_ljg">手机</font></em>
+				<i class="promo-words" id="J_AD_4032215">4月6日0点正式开抢！10核处理器！4100mAh大电池长续航！5.5英寸全高清大屏！传送门：更多惊喜，【猛猛戳我】</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_4032215" target="_blank" href="//item.jd.com/4032215.html#comment" onclick="searchlog(1,4032215,1,3,'','flagsClk=2017464968')">5.3万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="4032215" href="javascript:;" title="点击关注" onclick="searchlog(1,4032215,1,5,'','flagsClk=2017464968')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="97" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a></span></div>
+		<div class="p-icons" id="J_pro_4032215">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="4317018" data-spu="4225460" data-pid="4225460">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/4317018.html" onclick="searchlog(1,4317018,2,2,'','flagsClk=2052067976')" title="新千元红米长续航金属一体化手机，指纹识别，隐私双系统！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img13.360buyimg.com/n7/jfs/t3865/84/1884037451/256490/5001585d/589d7a8fNe1bac6ce.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="0" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="前白后金"><img data-sku="4317018" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img13.360buyimg.com/n9/jfs/t3865/84/1884037451/256490/5001585d/589d7a8fNe1bac6ce.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="金色"><img data-sku="4225470" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img10.360buyimg.com/n9/jfs/t4300/129/373589709/128004/a2b0ab53/58b3b307Nb9e42804.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="深灰"><img data-sku="4225462" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img12.360buyimg.com/n9/jfs/t3814/291/3557237351/229983/b5065e5b/589d7878N6e0d22ac.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="前白后银"><img data-sku="4317020" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img10.360buyimg.com/n9/jfs/t3850/47/3074767508/435432/5b9e1c59/5875f78dNed24fa45.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="银白"><img data-sku="4225468" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img13.360buyimg.com/n9/jfs/t4123/186/381987935/131754/fdb491d1/58b3b295N640cbefb.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_4317018" data-price="999.00" data-done="1"><em>￥</em><i>999.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="新千元红米长续航金属一体化手机，指纹识别，隐私双系统！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/4317018.html" onclick="searchlog(1,4317018,2,1,'','flagsClk=2052067976')">
+				<em>小米（MI） 红米4</em>
+				<i class="promo-words" id="J_AD_4317018">新千元红米长续航金属一体化手机，指纹识别，隐私双系统！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_4317018" target="_blank" href="//item.jd.com/4317018.html#comment" onclick="searchlog(1,4317018,2,3,'','flagsClk=2052067976')">6.2万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="4317018" href="javascript:;" title="点击关注" onclick="searchlog(1,4317018,2,5,'','flagsClk=2052067976')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="96" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_4317018">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="4510588" data-spu="4510588" data-pid="4510588">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/4510588.html" onclick="searchlog(1,4510588,3,2,'','flagsClk=2052067976')" title="全新红米4X！5英寸屏幕，4100毫安大电池长续航！骁龙八核处理器！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img13.360buyimg.com/n7/jfs/t4123/339/1784513645/257764/57536ad7/58c6393dNb4dc74a3.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="0" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="金"><img data-sku="4510588" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img13.360buyimg.com/n9/jfs/t4123/339/1784513645/257764/57536ad7/58c6393dNb4dc74a3.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="黑"><img data-sku="3907423" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img13.360buyimg.com/n9/jfs/t4237/313/2933634844/210981/3a99889d/58d87bc4N015a9502.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_4510588" data-price="699.00" data-done="1"><em>￥</em><i>699.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="全新红米4X！5英寸屏幕，4100毫安大电池长续航！骁龙八核处理器！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/4510588.html" onclick="searchlog(1,4510588,3,1,'','flagsClk=2052067976')">
+				<em>小米（MI） 红米4x</em>
+				<i class="promo-words" id="J_AD_4510588">全新红米4X！5英寸屏幕，4100毫安大电池长续航！骁龙八核处理器！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_4510588" target="_blank" href="//item.jd.com/4510588.html#comment" onclick="searchlog(1,4510588,3,3,'','flagsClk=2052067976')">3.1万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="4510588" href="javascript:;" title="点击关注" onclick="searchlog(1,4510588,3,5,'','flagsClk=2052067976')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="97" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_4510588">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="3553539" data-spu="3553567" data-pid="3553567">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/3553539.html" onclick="searchlog(1,3553539,4,2,'','flagsClk=2052067976')" title="红米4A新品上市，轻盈小巧长续航，隐私双系统！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img14.360buyimg.com/n7/jfs/t4054/103/1954653704/265499/cbc5daaa/589d7d95N088093ae.jpg">
+			</a>
+			<div data-catid="655" data-jq="0" data-dq="0" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金色"><img data-sku="3553539" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img14.360buyimg.com/n9/jfs/t4054/103/1954653704/265499/cbc5daaa/589d7d95N088093ae.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金色"><img data-sku="3553567" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img12.360buyimg.com/n9/jfs/t4054/149/1941665922/312732/fc88cafe/589d7db2Nf287d6e1.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_3553539" data-price="599.00" data-done="1"><em>￥</em><i>599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="红米4A新品上市，轻盈小巧长续航，隐私双系统！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/3553539.html" onclick="searchlog(1,3553539,4,1,'','flagsClk=2052067976')">
+				<em>小米（MI） 红米4A</em>
+				<i class="promo-words" id="J_AD_3553539">红米4A新品上市，轻盈小巧长续航，隐私双系统！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_3553539" target="_blank" href="//item.jd.com/3553539.html#comment" onclick="searchlog(1,3553539,4,3,'','flagsClk=2052067976')">4.6万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="3553539" href="javascript:;" title="点击关注" onclick="searchlog(1,3553539,4,5,'','flagsClk=2052067976')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="98" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_3553539">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="2402694" data-spu="2402692" data-pid="2402692">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/2808699.html" onclick="searchlog(1,2402694,5,2,'','flagsClk=2052067976')" title="高通骁龙820处理器，4轴防抖相机，很轻狠快！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img14.360buyimg.com/n7/jfs/t2896/93/1269752569/143031/aed67cc8/573a7ea2N956058ee.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="" title="白"><img data-sku="2402694" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img14.360buyimg.com/n9/jfs/t4135/297/388153057/335769/45cf4be5/58b3fa6eN2602572e.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="金" class="curr"><img data-sku="2808699" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img14.360buyimg.com/n9/jfs/t2896/93/1269752569/143031/aed67cc8/573a7ea2N956058ee.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_2402694" data-price="1799.00" data-done="1"><em>￥</em><i>1799.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="高通骁龙820处理器，4轴防抖相机，很轻狠快！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/2808699.html" onclick="searchlog(1,2402694,5,1,'','flagsClk=2052067976')">
+				<em>小米（MI） 小米5</em>
+				<i class="promo-words" id="J_AD_2402694">高通骁龙820处理器，4轴防抖相机，很轻狠快！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<a target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=58222" class="spu-link">二手有售 &gt;</a>
+			<strong>已有<a id="J_comment_2402694" target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=58222" onclick="searchlog(1,2402694,5,3,'','flagsClk=2052067976')">16万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="2808699" href="javascript:;" title="点击关注" onclick="searchlog(1,2402694,5,5,'','flagsClk=2052067976')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="95" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_2402694">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="3322621" data-spu="3322621" data-pid="3322621">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/3322621.html" onclick="searchlog(1,3322621,6,2,'','flagsClk=2052067976')" title="内含原装保护壳！5.7英寸大屏双摄手机，高通骁龙 821处理器，最大可选 6GB+128GB配置！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t3235/63/3092558366/259625/ed38b4b2/57ebaca8N0de8d6f8.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="金"><img data-sku="3322621" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img11.360buyimg.com/n9/jfs/t3235/63/3092558366/259625/ed38b4b2/57ebaca8N0de8d6f8.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="雅黑"><img data-sku="3846675" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img10.360buyimg.com/n9/jfs/t3814/95/3552587897/502776/62ef3bd/589d944eN5af819a4.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="3322619" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img14.360buyimg.com/n9/jfs/t3505/274/1355524913/478059/40c840a9/58248624N0f4bc939.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="灰"><img data-sku="3752980" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img10.360buyimg.com/n9/jfs/t3217/12/3078651923/216137/236837f4/57ebad06N1080a535.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="银"><img data-sku="3322623" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img13.360buyimg.com/n9/jfs/t3070/340/3049499018/262374/fe131303/57ebacb8N20bc1e2e.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_3322621" data-price="2299.00" data-done="1"><em>￥</em><i>2299.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="内含原装保护壳！5.7英寸大屏双摄手机，高通骁龙 821处理器，最大可选 6GB+128GB配置！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/3322621.html" onclick="searchlog(1,3322621,6,1,'','flagsClk=2052067976')">
+				<em>小米（MI） 小米5S Plus</em>
+				<i class="promo-words" id="J_AD_3322621">内含原装保护壳！5.7英寸大屏双摄手机，高通骁龙 821处理器，最大可选 6GB+128GB配置！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<a target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=59144" class="spu-link">二手有售 &gt;</a>
+			<strong>已有<a id="J_comment_3322621" target="_blank" href="//item.jd.com/3322621.html#comment" onclick="searchlog(1,3322621,6,3,'','flagsClk=2052067976')">8.8万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="3322621" href="javascript:;" title="点击关注" onclick="searchlog(1,3322621,6,5,'','flagsClk=2052067976')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="97" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_3322621">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="3984684" data-spu="3984684" data-pid="3984684">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/3984684.html" onclick="searchlog(1,3984684,7,2,'','flagsClk=2052067976')" title="每周二、周四10:00抢购！5.7英寸双曲面柔性屏，2256万超高像素相机，一面科技，一面艺术！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img14.360buyimg.com/n7/jfs/t3544/28/568416609/135582/af801e4f/580f1296N69590b3b.jpg">
+			</a>
+			<div data-catid="655" data-jq="0" data-dq="0" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="亮黑色"><img data-sku="3984684" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img14.360buyimg.com/n9/jfs/t3544/28/568416609/135582/af801e4f/580f1296N69590b3b.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="亮银黑"><img data-sku="3928075" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img10.360buyimg.com/n9/jfs/t3958/363/1097440735/407966/5ae175f1/58bcb941Nc970c1b8.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_3984684" data-price="2799.00" data-done="1"><em>￥</em><i>2799.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="每周二、周四10:00抢购！5.7英寸双曲面柔性屏，2256万超高像素相机，一面科技，一面艺术！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/3984684.html" onclick="searchlog(1,3984684,7,1,'','flagsClk=2052067976')">
+				<em>小米（MI） 小米Note2</em>
+				<i class="promo-words" id="J_AD_3984684">每周二、周四10:00抢购！5.7英寸双曲面柔性屏，2256万超高像素相机，一面科技，一面艺术！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<a target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=59142" class="spu-link">二手有售 &gt;</a>
+			<strong>已有<a id="J_comment_3984684" target="_blank" href="//item.jd.com/3984684.html#comment" onclick="searchlog(1,3984684,7,3,'','flagsClk=2052067976')">6700+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="3984684" href="javascript:;" title="点击关注" onclick="searchlog(1,3984684,7,5,'','flagsClk=2052067976')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="96" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_3984684">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="3418906" data-spu="3057077" data-pid="3057077">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/3418906.html" onclick="searchlog(1,3418906,8,2,'','flagsClk=2051019400')" title="双摄十核旗舰手机，5.5英寸大屏，4050mAh大电池！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img11.360buyimg.com/n7/jfs/t2686/362/4022418405/203589/6159eaf4/57a8a67bN6d5a08d7.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="灰色"><img data-sku="3418906" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img11.360buyimg.com/n9/jfs/t2686/362/4022418405/203589/6159eaf4/57a8a67bN6d5a08d7.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="金色"><img data-sku="3057071" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img11.360buyimg.com/n9/jfs/t3304/117/2845358499/310088/d34c7b8e/57e736b7N4c94c89b.jpg"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="银色"><img data-sku="3418874" data-img="1" width="25" height="25" data-lazy-img="done" class="" src="//img14.360buyimg.com/n9/jfs/t3052/56/2955969514/231911/bb1b03f8/57e956feN879d5373.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_3418906" data-price="1399.00" data-done="1"><em>￥</em><i>1399.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="双摄十核旗舰手机，5.5英寸大屏，4050mAh大电池！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/3418906.html" onclick="searchlog(1,3418906,8,1,'','flagsClk=2051019400')">
+				<em>小米（MI） 红米 Pro</em>
+				<i class="promo-words" id="J_AD_3418906">双摄十核旗舰手机，5.5英寸大屏，4050mAh大电池！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_3418906" target="_blank" href="//item.jd.com/3418906.html#comment" onclick="searchlog(1,3418906,8,3,'','flagsClk=2051019400')">9.1万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="3418906" href="javascript:;" title="点击关注" onclick="searchlog(1,3418906,8,5,'','flagsClk=2051019400')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="95" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_3418906">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="1601978" data-spu="1514842" data-pid="1514842">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/1601978.html" onclick="searchlog(1,1601978,9,2,'','flagsClk=1912607368')" title="5.7英寸高清大屏，6.95mm 纤薄机身，高通骁龙801处理器！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" src="//img13.360buyimg.com/n7/jfs/t916/15/949840510/103148/c1ad9909/555aefadNc6678c5f.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="黑"><img data-sku="1601978" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img13.360buyimg.com/n9/jfs/t916/15/949840510/103148/c1ad9909/555aefadNc6678c5f.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_1601978" data-price="999.00" data-done="1"><em>￥</em><i>999.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="5.7英寸高清大屏，6.95mm 纤薄机身，高通骁龙801处理器！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/1601978.html" onclick="searchlog(1,1601978,9,1,'','flagsClk=1912607368')">
+				<em>小米（MI） 小米Note</em>
+				<i class="promo-words" id="J_AD_1601978">5.7英寸高清大屏，6.95mm 纤薄机身，高通骁龙801处理器！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_1601978" target="_blank" href="//item.jd.com/1601978.html#comment" onclick="searchlog(1,1601978,9,3,'','flagsClk=1912607368')">9.8万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="1601978" href="javascript:;" title="点击关注" onclick="searchlog(1,1601978,9,5,'','flagsClk=1912607368')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="94" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_1601978">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障">
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="0" data-presale="0"></a></div><div class="p-stock">北京无货</div>
+	</div>
+</li>
+<li class="gl-item" data-sku="2025616" data-spu="2025574" data-pid="2025574">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/2025616.html" onclick="searchlog(1,2025616,10,2,'','flagsClk=1912607368')" title="低至699元！高通骁龙808畅销机，5英寸高清屏幕，爱不释手！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="" data-img="1" data-lazy-img="done" src="//img11.360buyimg.com/n7/jfs/t1948/297/888037748/90989/6e059b14/5631d1a1N365d15d5.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="粉"><img data-sku="2025616" data-img="1" data-lazy-img="done" class="" width="25" height="25" src="//img11.360buyimg.com/n9/jfs/t1948/297/888037748/90989/6e059b14/5631d1a1N365d15d5.jpg"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_2025616" data-price="699.00" data-done="1"><em>￥</em><i>699.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="低至699元！高通骁龙808畅销机，5英寸高清屏幕，爱不释手！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/2025616.html" onclick="searchlog(1,2025616,10,1,'','flagsClk=1912607368')">
+				<em>小米（MI） 4C标准版</em>
+				<i class="promo-words" id="J_AD_2025616">低至699元！高通骁龙808畅销机，5英寸高清屏幕，爱不释手！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<a target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=59214" class="spu-link">二手有售 &gt;</a>
+			<strong>已有<a id="J_comment_2025616" target="_blank" href="//item.jd.com/2025616.html#comment" onclick="searchlog(1,2025616,10,3,'','flagsClk=1912607368')">11万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="2025616" href="javascript:;" title="点击关注" onclick="searchlog(1,2025616,10,5,'','flagsClk=1912607368')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="95" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_2025616">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障">
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="0" data-presale="0"></a></div><div class="p-stock">北京无货</div>
+	</div>
+</li>
+<li class="gl-item" data-type="activity">
+	<div class="gl-act-v2 gl-act-skin4">
+		<div class="gl-act-img"><a href="//sale.jd.com/act/duBTm3xAqHsRPaC.html" title="回收送福袋" onclick="searchlog(1,948426,11,2,'','actClk=2')" target="_blank"><img data-img="1" src="//m.360buyimg.com/mobilecms/jfs/t3190/136/8304503584/24345/3308e480/58c113b5N34944dd5.jpg" data-lazy-img="done"></a></div>
+		<div class="gl-act-main">
+			<div class="gl-act-detail">
+				<div class="gl-act-title"><strong>回收送福袋</strong></div>
+				<div class="gl-act-infor">送100元京东E卡</div>
+				<div class="gl-act-enter"><a href="//sale.jd.com/act/duBTm3xAqHsRPaC.html" onclick="searchlog(1,948426,11,2,'','actClk=2')" class="gl-act-btn" target="_blank">立即开抢</a></div>
+			</div>
+		</div>
+	</div>
+</li><li class="gl-item" data-sku="4609868" data-spu="3110727" data-pid="3110727">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/4609868.html" onclick="searchlog(1,4609868,12,2,'','flagsClk=1884295816')" title="4.6 0:00起，用券立减100！十核处理器，4100mAh电池，金属一体化机身十核千元旗舰新标杆！戳我领取100元优惠券！">
+				<img width="220" height="220" class="" data-img="1" data-lazy-img="done" src="//img13.360buyimg.com/n7/jfs/t4240/13/1458234970/233970/74d4c860/58c25f23Nfa8392e6.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="黑色"><img data-sku="4609868" data-img="1" data-lazy-img="//img13.360buyimg.com/n9/jfs/t4240/13/1458234970/233970/74d4c860/58c25f23Nfa8392e6.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="灰色"><img data-sku="4609856" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t4549/203/781175514/98456/b69f5730/58d4947aNce9075d0.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="金色"><img data-sku="3553571" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3154/337/2794966238/190618/44dfc9d2/57e7360cN9e38f518.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="蓝色"><img data-sku="4609870" data-img="1" width="25" height="25" data-lazy-img="//img10.360buyimg.com/n9/jfs/t3241/154/8247886431/100742/f2d5cfa2/58c25ea8N52d3bfbc.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="银色"><img data-sku="4243422" data-img="1" width="25" height="25" data-lazy-img="//img12.360buyimg.com/n9/jfs/t3103/272/2780558524/186875/fdad72f0/57e7363dN3dff9d40.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_4609868" data-price="1399.00" data-done="1"><em>￥</em><i>1399.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="4.6 0:00起，用券立减100！十核处理器，4100mAh电池，金属一体化机身十核千元旗舰新标杆！戳我领取100元优惠券！" href="//item.jd.com/4609868.html" onclick="searchlog(1,4609868,12,1,'','flagsClk=1884295816')">
+				<em><font class="skcolor_ljg">小米</font> 红米Note4 全网通版 4GB+64GB 雅黑 移动联通电信4G<font class="skcolor_ljg">手机</font> 双卡双待</em>
+				<i class="promo-words" id="J_AD_4609868">4.6 0:00起，用券立减100！十核处理器，4100mAh电池，金属一体化机身十核千元旗舰新标杆！戳我领取100元优惠券！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<a target="_blank" href="//spu.jd.com/used.html?stock=1&amp;pid=58340" class="spu-link">二手有售 &gt;</a>
+			<strong>已有<a id="J_comment_4609868" target="_blank" href="//item.jd.com/4609868.html#comment" onclick="searchlog(1,4609868,12,3,'','flagsClk=1884295816')">28万+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="4609868" href="javascript:;" title="点击关注" onclick="searchlog(1,4609868,12,5,'','flagsClk=1884295816')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="96" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_4609868">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i><i class="goods-icons J-picon-tips" data-tips="本商品可领用优惠券">券1399-100</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10932167751" data-spu="10165597127" data-pid="10932167750">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10932167751.html" onclick="searchlog(1,10932167751,13,2,'','flagsClk=1883243144')" title="【返场秒杀中！京东配送！移动公开混发】1300万像素！3120mAh大电池！ 新品魅蓝5S">
+				<img width="220" height="220" class="" data-img="1" data-lazy-img="done" src="//img11.360buyimg.com/n7/jfs/t3583/330/1518976996/241339/10b98107/58297268Nc3e9acf5.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="174907" data-template="0_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="10932167751" data-img="1" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3583/330/1518976996/241339/10b98107/58297268Nc3e9acf5.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="10932167750" data-img="1" width="25" height="25" data-lazy-img="//img10.360buyimg.com/n9/jfs/t3760/226/1536785343/216185/c7fec6c9/58297261N120c6351.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10932167751" data-price="599.00" data-done="1"><em>￥</em><i>599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【返场秒杀中！京东配送！移动公开混发】1300万像素！3120mAh大电池！ 新品魅蓝5S" href="//item.jd.com/10932167751.html" onclick="searchlog(1,10932167751,13,1,'','flagsClk=1883243144')">
+				<em>小米4A 红米4A 4G<font class="skcolor_ljg">手机</font> 香槟金 公开全网通(2G RAM+16G ROM)</em>
+				<i class="promo-words" id="J_AD_10932167751">【返场秒杀中！京东配送！移动公开混发】1300万像素！3120mAh大电池！ 新品魅蓝5S</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10932167751" target="_blank" href="//item.jd.com/10932167751.html#comment" onclick="searchlog(1,10932167751,13,3,'','flagsClk=1883243144')">9800+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10932167751" href="javascript:;" title="点击关注" onclick="searchlog(1,10932167751,13,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="91" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,178287,0,58)" href="//mall.jd.com/index-178287.html" title="牧申手机旗舰店">牧申手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,178287,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10932167751"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i><i class="goods-icons J-picon-tips" data-tips="当前收货地址，本商品免邮费">商家免邮</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="11442283739" data-spu="10215234577" data-pid="11442283738">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/11442283739.html" onclick="searchlog(1,11442283739,14,2,'','flagsClk=1883243144')" title="【当天发！不发赔50！】包邮！再送小米活塞耳机+保护壳+钢膜！红米Note4 64G">
+				<img width="220" height="220" class="" data-img="1" data-lazy-img="done" src="//img14.360buyimg.com/n7/jfs/t4534/318/414392486/279666/8b89d974/58cf50eeNa8ab6dbf.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="648241" data-template="1026502_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="金色"><img data-sku="11442283739" data-img="1" data-lazy-img="//img14.360buyimg.com/n9/jfs/t4534/318/414392486/279666/8b89d974/58cf50eeNa8ab6dbf.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="11442283741" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t4657/331/413979869/288075/e1ee0dbe/58cf510aNe0e4d381.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="磨砂黑"><img data-sku="11455036433" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t4360/20/3782900536/89730/a5b7a6c7/58e882f3N8306281e.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_11442283739" data-price="1599.00" data-done="1"><em>￥</em><i>1599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【当天发！不发赔50！】包邮！再送小米活塞耳机+保护壳+钢膜！红米Note4 64G" href="//item.jd.com/11442283739.html" onclick="searchlog(1,11442283739,14,1,'','flagsClk=1883243144')">
+				<em>小米5C <font class="skcolor_ljg">手机</font> 金色 移动4G（支持双4G）</em>
+				<i class="promo-words" id="J_AD_11442283739">【当天发！不发赔50！】包邮！再送小米活塞耳机+保护壳+钢膜！红米Note4 64G</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_11442283739" target="_blank" href="//item.jd.com/11442283739.html#comment" onclick="searchlog(1,11442283739,14,3,'','flagsClk=1883243144')">1300+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="11442283739" href="javascript:;" title="点击关注" onclick="searchlog(1,11442283739,14,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="100" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,644435,0,58)" href="//mall.jd.com/index-644435.html" title="费罗科斯手机专营店">费罗科斯手机专营店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,644435,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_11442283739"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="11077307750" data-spu="10185363542" data-pid="11077307750">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/11077307750.html" onclick="searchlog(1,11077307750,15,2,'','flagsClk=1883243144')" title="全部当天发，不发赔50元【下单送移动电源+耳机+壳2+钢化膜2等，不加价】购新品努比亚M2">
+				<img width="220" height="220" class="" data-img="1" data-lazy-img="done" src="//img10.360buyimg.com/n7/jfs/t3202/145/7521259196/254834/4e0c8f63/58b7db99N9304a0a7.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="116240" data-template="447640_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="黑色"><img data-sku="11077307750" data-img="1" data-lazy-img="//img10.360buyimg.com/n9/jfs/t3202/145/7521259196/254834/4e0c8f63/58b7db99N9304a0a7.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="11456539579" data-img="1" width="25" height="25" data-lazy-img="//img14.360buyimg.com/n9/jfs/t4378/156/672047900/246805/c5e496cc/58b7db98N84c8e82e.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="金色"><img data-sku="11456532798" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t4120/182/775029368/264536/91b75fff/58b7db96N30d0d979.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_11077307750" data-price="1599.00" data-done="1"><em>￥</em><i>1599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="全部当天发，不发赔50元【下单送移动电源+耳机+壳2+钢化膜2等，不加价】购新品努比亚M2" href="//item.jd.com/11077307750.html" onclick="searchlog(1,11077307750,15,1,'','flagsClk=1883243144')">
+				<em>小米5C <font class="skcolor_ljg">手机</font> 黑色 移动4G（支持双4G）hot</em>
+				<i class="promo-words" id="J_AD_11077307750">全部当天发，不发赔50元【下单送移动电源+耳机+壳2+钢化膜2等，不加价】购新品努比亚M2</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_11077307750" target="_blank" href="//item.jd.com/11077307750.html#comment" onclick="searchlog(1,11077307750,15,3,'','flagsClk=1883243144')">1100+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="11077307750" href="javascript:;" title="点击关注" onclick="searchlog(1,11077307750,15,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="91" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,113406,0,58)" href="//mall.jd.com/index-113406.html" title="佳沪数码手机旗舰店">佳沪数码手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,113406,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_11077307750"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i><i class="goods-icons J-picon-tips" data-tips="当前收货地址，本商品免邮费">商家免邮</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="11308069989" data-spu="10217967189" data-pid="11308029226">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/11308069989.html" onclick="searchlog(1,11308069989,16,2,'','flagsClk=1883243144')" title="【限量绿色发售】4100mAh长续航！【新款小米5C】">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t3166/339/6196065341/86837/bb32f2d8/58a17de8N76cb24cd.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="185259" data-template="563985_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="11308069989" data-img="1" data-lazy-img="//img14.360buyimg.com/n9/jfs/t3166/339/6196065341/86837/bb32f2d8/58a17de8N76cb24cd.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="磨砂黑"><img data-sku="11409955967" data-img="1" width="25" height="25" data-lazy-img="//img12.360buyimg.com/n9/jfs/t3307/360/7017138772/159302/467c3139/58b265bbN9759fa18.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="铂银灰"><img data-sku="11308029226" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3253/339/6293639118/94835/4d275d79/58a2c601Na8ea1ba4.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="樱花粉"><img data-sku="11467112252" data-img="1" width="25" height="25" data-lazy-img="//img12.360buyimg.com/n9/jfs/t4291/191/568167446/61431/ce1943e5/58b684d4N9b803081.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="蓝绿色"><img data-sku="11409987558" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t4246/140/124172858/52851/60b74738/58afa5ddN28394686.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_11308069989" data-price="1049.00" data-done="1"><em>￥</em><i>1049.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【限量绿色发售】4100mAh长续航！【新款小米5C】" href="//item.jd.com/11308069989.html" onclick="searchlog(1,11308069989,16,1,'','flagsClk=1883243144')">
+				<em><font class="skcolor_ljg">小米</font> 红米Note4X<font class="skcolor_ljg">手机</font> 香槟金 全网通版(3GB+32GB)</em>
+				<i class="promo-words" id="J_AD_11308069989">【限量绿色发售】4100mAh长续航！【新款小米5C】</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_11308069989" target="_blank" href="//item.jd.com/11308069989.html#comment" onclick="searchlog(1,11308069989,16,3,'','flagsClk=1883243144')">2300+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="11308069989" href="javascript:;" title="点击关注" onclick="searchlog(1,11308069989,16,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="94" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,179483,0,58)" href="//mall.jd.com/index-179483.html" title="新松联手机旗舰店">新松联手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,179483,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_11308069989"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10867208778" data-spu="10157765211" data-pid="10867208777">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10867208778.html" onclick="searchlog(1,10867208778,17,2,'','flagsClk=1883242632')" title="【电子发票】 5.7英寸双曲面屏，2256万高像素 购买小米MIX">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t4015/116/1725390102/99478/58303a7d/5897eb8eN30d71c93.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="166165" data-template="437846_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="亮黑色"><img data-sku="10867208778" data-img="1" data-lazy-img="//img13.360buyimg.com/n9/jfs/t4015/116/1725390102/99478/58303a7d/5897eb8eN30d71c93.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="亮银黑"><img data-sku="10867208781" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t4657/192/188458034/103480/799210cd/58cb7699Nd0394acd.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10867208778" data-price="3299.00" data-done="1"><em>￥</em><i>3299.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【电子发票】 5.7英寸双曲面屏，2256万高像素 购买小米MIX" href="//item.jd.com/10867208778.html" onclick="searchlog(1,10867208778,17,1,'','flagsClk=1883242632')">
+				<em><font class="skcolor_ljg">小米</font>(MI) <font class="skcolor_ljg">小米</font>Note2 4G<font class="skcolor_ljg">手机</font> 双卡双待 亮黑色 全网通(6G RAM+128G ROM)标配</em>
+				<i class="promo-words" id="J_AD_10867208778">【电子发票】 5.7英寸双曲面屏，2256万高像素 购买小米MIX</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10867208778" target="_blank" href="//item.jd.com/10867208778.html#comment" onclick="searchlog(1,10867208778,17,3,'','flagsClk=1883242632')">700+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10867208778" href="javascript:;" title="点击关注" onclick="searchlog(1,10867208778,17,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="93" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,162516,0,58)" href="//mall.jd.com/index-162516.html" title="能良数码旗舰店">能良数码旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,162516,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10867208778"><i class="goods-icons J-picon-tips" data-tips="当前收货地址，本商品免邮费">商家免邮</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10867285510" data-spu="10157771540" data-pid="10867285509">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10867285510.html" onclick="searchlog(1,10867285510,18,2,'','flagsClk=1883242632')" title="【电子发票】128G到货  查看小米note2">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t4594/342/1086676431/290324/feb08a33/58d87996N329d56d2.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="166165" data-template="437846_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="陶瓷黑"><img data-sku="10867285510" data-img="1" data-lazy-img="//img10.360buyimg.com/n9/jfs/t4594/342/1086676431/290324/feb08a33/58d87996N329d56d2.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="皓月白"><img data-sku="11284106338" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t3073/49/5985378305/407489/3cadd02d/58991e31Nf9dd1e72.png" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10867285510" data-price="4149.00" data-done="1"><em>￥</em><i>4149.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【电子发票】128G到货  查看小米note2" href="//item.jd.com/10867285510.html" onclick="searchlog(1,10867285510,18,1,'','flagsClk=1883242632')">
+				<em><font class="skcolor_ljg">小米</font>(MI) <font class="skcolor_ljg">小米</font>MIX 4G<font class="skcolor_ljg">手机</font> 双卡双待 陶瓷黑 全网通尊享版(6G RAM+256G ROM)标配</em>
+				<i class="promo-words" id="J_AD_10867285510">【电子发票】128G到货  查看小米note2</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10867285510" target="_blank" href="//item.jd.com/10867285510.html#comment" onclick="searchlog(1,10867285510,18,3,'','flagsClk=1883242632')">700+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10867285510" href="javascript:;" title="点击关注" onclick="searchlog(1,10867285510,18,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="93" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,162516,0,58)" href="//mall.jd.com/index-162516.html" title="能良数码旗舰店">能良数码旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,162516,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10867285510"><i class="goods-icons J-picon-tips" data-tips="当前收货地址，本商品免邮费">商家免邮</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10979250498" data-spu="10171150160" data-pid="10979250498">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10979250498.html" onclick="searchlog(1,10979250498,19,2,'','flagsClk=1883242632')" title="【正品国行】【电子发票】【京东配送】更多小米爆款手机，立即抢购">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t3439/225/1576372184/212466/634a5b6a/582bc421N6f562362.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="608833" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="玫瑰金"><img data-sku="10979250498" data-img="1" data-lazy-img="//img13.360buyimg.com/n9/jfs/t3439/225/1576372184/212466/634a5b6a/582bc421N6f562362.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="香槟金"><img data-sku="10979250499" data-img="1" width="25" height="25" data-lazy-img="//img14.360buyimg.com/n9/jfs/t3559/130/1579776324/189301/ce3491a/582bc425N8945b458.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10979250498" data-price="599.00" data-done="1"><em>￥</em><i>599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【正品国行】【电子发票】【京东配送】更多小米爆款手机，立即抢购" href="//item.jd.com/10979250498.html" onclick="searchlog(1,10979250498,19,1,'','flagsClk=1883242632')">
+				<em><font class="skcolor_ljg">小米</font> 红米4A <font class="skcolor_ljg">手机</font> 玫瑰金 移动4G/联通4G/电信4G( 2G+16G)</em>
+				<i class="promo-words" id="J_AD_10979250498">【正品国行】【电子发票】【京东配送】更多小米爆款手机，立即抢购</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10979250498" target="_blank" href="//item.jd.com/10979250498.html#comment" onclick="searchlog(1,10979250498,19,3,'','flagsClk=1883242632')">4200+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10979250498" href="javascript:;" title="点击关注" onclick="searchlog(1,10979250498,19,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="94" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,602745,0,58)" href="//mall.jd.com/index-602745.html" title="绿森数码手机旗舰店">绿森数码手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,602745,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10979250498"><i class="goods-icons J-picon-tips" data-tips="本商品可领用优惠券">券100-10</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="11284596060" data-spu="10214469157" data-pid="11284596060">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/11284596060.html" onclick="searchlog(1,11284596060,20,2,'','flagsClk=1883242632')" title="【电子发票】64G金现货开售，4100mAh长续航，红米4X 32G">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t4063/157/1330973385/61950/1c565e48/58bf6de4Nfa4bccfe.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="166165" data-template="437846_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="11284596060" data-img="1" data-lazy-img="//img10.360buyimg.com/n9/jfs/t4063/157/1330973385/61950/1c565e48/58bf6de4Nfa4bccfe.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="铂银灰"><img data-sku="11310785820" data-img="1" width="25" height="25" data-lazy-img="//img10.360buyimg.com/n9/jfs/t3277/196/8072748908/56711/1f5faa11/58bf6df0N695bfae6.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="磨砂黑"><img data-sku="11310785821" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3205/349/8112960359/47415/59e1b845/58bf6df3N0874693e.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="樱花粉"><img data-sku="11310785818" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t3994/210/1337655629/62981/825ee0c4/58bf6df7N8a8c027f.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="蓝绿色"><img data-sku="11310785819" data-img="1" width="25" height="25" data-lazy-img="//img14.360buyimg.com/n9/jfs/t4390/144/1327566050/135754/d8b8d10f/58dcb7f4N43b87fdf.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_11284596060" data-price="1049.00" data-done="1"><em>￥</em><i>1049.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【电子发票】64G金现货开售，4100mAh长续航，红米4X 32G" href="//item.jd.com/11284596060.html" onclick="searchlog(1,11284596060,20,1,'','flagsClk=1883242632')">
+				<em><font class="skcolor_ljg">小米</font>(MI) 红米Note4X 4G<font class="skcolor_ljg">手机</font> 双卡双待 香槟金 全网通(3G RAM+32G ROM)标配</em>
+				<i class="promo-words" id="J_AD_11284596060">【电子发票】64G金现货开售，4100mAh长续航，红米4X 32G</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_11284596060" target="_blank" href="//item.jd.com/11284596060.html#comment" onclick="searchlog(1,11284596060,20,3,'','flagsClk=1883242632')">5100+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="11284596060" href="javascript:;" title="点击关注" onclick="searchlog(1,11284596060,20,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="96" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,162516,0,58)" href="//mall.jd.com/index-162516.html" title="能良数码旗舰店">能良数码旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,162516,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_11284596060"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i><i class="goods-icons J-picon-tips" data-tips="当前收货地址，本商品免邮费">商家免邮</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10931044507" data-spu="10165475509" data-pid="10931044507">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10931044507.html" onclick="searchlog(1,10931044507,21,2,'','flagsClk=1883243144')" title="【现货速发】5英寸长续航，1300万像素，骁龙芯片，3120mAh大电池！新款【红米4X】">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img12.360buyimg.com/n7/jfs/t4945/279/52379331/197706/be068951/58d9db33Nd3ab9dfd.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="606313" data-template="1038173_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="10931044507" data-img="1" data-lazy-img="//img12.360buyimg.com/n9/jfs/t4945/279/52379331/197706/be068951/58d9db33Nd3ab9dfd.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="10931044508" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t4951/33/40999829/198632/2579a59b/58d9db34N232162df.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10931044507" data-price="585.00" data-done="1"><em>￥</em><i>585.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【现货速发】5英寸长续航，1300万像素，骁龙芯片，3120mAh大电池！新款【红米4X】" href="//item.jd.com/10931044507.html" onclick="searchlog(1,10931044507,21,1,'','flagsClk=1883243144')">
+				<em><font class="skcolor_ljg">小米</font> 红米<font class="skcolor_ljg">手机</font>4A  双卡双待 4G<font class="skcolor_ljg">手机</font> 香槟金 全网通4G (2G RAM+16G ROM) 标配</em>
+				<i class="promo-words" id="J_AD_10931044507">【现货速发】5英寸长续航，1300万像素，骁龙芯片，3120mAh大电池！新款【红米4X】</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10931044507" target="_blank" href="//item.jd.com/10931044507.html#comment" onclick="searchlog(1,10931044507,21,3,'','flagsClk=1883243144')">3500+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10931044507" href="javascript:;" title="点击关注" onclick="searchlog(1,10931044507,21,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="90" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,607088,0,58)" href="//mall.jd.com/index-607088.html" title="滨泽数码手机旗舰店">滨泽数码手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,607088,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10931044507"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10927332921" data-spu="10165145390" data-pid="10927332921">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10927332921.html" onclick="searchlog(1,10927332921,22,2,'','flagsClk=1883242632')" title="玫瑰金有货【电子发票】1300万像素，3120mAh大电池！新品红米4X">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t3388/188/1192820957/118088/5eef1879/581fdf0fNbdddd4b3.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="166165" data-template="437846_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="10927332921" data-img="1" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3388/188/1192820957/118088/5eef1879/581fdf0fNbdddd4b3.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="10927332922" data-img="1" width="25" height="25" data-lazy-img="//img12.360buyimg.com/n9/jfs/t3553/304/1215083546/116480/232c0ad1/581fdf1fN2610b046.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10927332921" data-price="599.00" data-done="1"><em>￥</em><i>599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="玫瑰金有货【电子发票】1300万像素，3120mAh大电池！新品红米4X" href="//item.jd.com/10927332921.html" onclick="searchlog(1,10927332921,22,1,'','flagsClk=1883242632')">
+				<em><font class="skcolor_ljg">小米</font>(MI) 红米4A 4G<font class="skcolor_ljg">手机</font> 双卡双待 香槟金 全网通(2G RAM+16G ROM)标配</em>
+				<i class="promo-words" id="J_AD_10927332921">玫瑰金有货【电子发票】1300万像素，3120mAh大电池！新品红米4X</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10927332921" target="_blank" href="//item.jd.com/10927332921.html#comment" onclick="searchlog(1,10927332921,22,3,'','flagsClk=1883242632')">3400+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10927332921" href="javascript:;" title="点击关注" onclick="searchlog(1,10927332921,22,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="92" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,162516,0,58)" href="//mall.jd.com/index-162516.html" title="能良数码旗舰店">能良数码旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,162516,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10927332921"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i><i class="goods-icons J-picon-tips" data-tips="当前收货地址，本商品免邮费">商家免邮</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="3984688" data-spu="3984688" data-pid="3984688">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/3984688.html" onclick="searchlog(1,3984688,23,2,'','flagsClk=1884295816')" title="6.4英寸全面屏概念手机，陶瓷声学系统，别具匠心！传送门：更多惊喜，猛猛戳我！">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t3511/253/563887589/91509/e0620709/580f131bNc97e75ab.jpg">
+			</a>
+			<div data-catid="655" data-jq="0" data-dq="0" data-venid="1000004123" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="黑色"><img data-sku="3984688" data-img="1" data-lazy-img="//img13.360buyimg.com/n9/jfs/t3511/253/563887589/91509/e0620709/580f131bNc97e75ab.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="白色"><img data-sku="3911733" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t4264/215/455518113/309855/38fe41f1/58b4fc81N1d924112.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_3984688" data-price="3499.00" data-done="1"><em>￥</em><i>3499.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="6.4英寸全面屏概念手机，陶瓷声学系统，别具匠心！传送门：更多惊喜，猛猛戳我！" href="//item.jd.com/3984688.html" onclick="searchlog(1,3984688,23,1,'','flagsClk=1884295816')">
+				<em><font class="skcolor_ljg">小米</font>MIX 全网通 标准版 4GB内存 128GB ROM 陶瓷黑 移动联通电信4G<font class="skcolor_ljg">手机</font></em>
+				<i class="promo-words" id="J_AD_3984688">6.4英寸全面屏概念手机，陶瓷声学系统，别具匠心！传送门：更多惊喜，猛猛戳我！</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_3984688" target="_blank" href="//item.jd.com/3984688.html#comment" onclick="searchlog(1,3984688,23,3,'','flagsClk=1884295816')">6600+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="3984688" href="javascript:;" title="点击关注" onclick="searchlog(1,3984688,23,5,'','flagsClk=1884295816')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="1" data-score="5" data-reputation="98" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,1000004123,0,58)" href="//mall.jd.com/index-1000004123.html" title="小米官方旗舰店">小米官方旗舰店</a><b class="im-02" title="联系供应商进行咨询" onclick="searchlog(1,1000004123,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_3984688">
+			<img src="//img14.360buyimg.com/uba/jfs/t3139/175/3796130719/1386/3a9cc545/57f8ac4fN87e531d5.png" alt="" width="44" height="16" class="goods-icons-img J-picon-tips J-picon-fix" data-tips="京东自营，品质保障"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="11319495561" data-spu="10219704811" data-pid="11319495560">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/11319495561.html" onclick="searchlog(1,11319495561,24,2,'','flagsClk=1883243144')" title="【现货速发】64G香槟金现货发售！4100mAh长续航！【米粉狂欢5折起】">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t3217/202/6361873467/186960/a500fdc6/58a2b165Ncc286f69.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="607665" data-template="1008623_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="11319495561" data-img="1" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3217/202/6361873467/186960/a500fdc6/58a2b165Ncc286f69.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="磨砂黑"><img data-sku="11453181149" data-img="1" width="25" height="25" data-lazy-img="//img14.360buyimg.com/n9/jfs/t3187/214/6361468648/183141/3902edc4/58a2b159N50077dc2.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="铂银灰"><img data-sku="11319495560" data-img="1" width="25" height="25" data-lazy-img="//img10.360buyimg.com/n9/jfs/t3265/302/6332640425/189280/bee851be/58a2b184Nae4a6901.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="樱花粉"><img data-sku="11511213656" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t4135/185/988883961/191333/837b9b2/58bbb713Nfe9360d8.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="蓝绿色"><img data-sku="11879286007" data-img="1" width="25" height="25" data-lazy-img="//img12.360buyimg.com/n9/jfs/t4489/217/1753078835/145210/643c7575/58e5b71cNb5eb420a.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_11319495561" data-price="1028.00" data-done="1"><em>￥</em><i>1028.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【现货速发】64G香槟金现货发售！4100mAh长续航！【米粉狂欢5折起】" href="//item.jd.com/11319495561.html" onclick="searchlog(1,11319495561,24,1,'','flagsClk=1883243144')">
+				<em><font class="skcolor_ljg">小米</font> 红米Note4X 4G智能<font class="skcolor_ljg">手机</font> 香槟金 全网通 标配版(3G RAM+32G ROM)</em>
+				<i class="promo-words" id="J_AD_11319495561">【现货速发】64G香槟金现货发售！4100mAh长续航！【米粉狂欢5折起】</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_11319495561" target="_blank" href="//item.jd.com/11319495561.html#comment" onclick="searchlog(1,11319495561,24,3,'','flagsClk=1883243144')">2200+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="11319495561" href="javascript:;" title="点击关注" onclick="searchlog(1,11319495561,24,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="96" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,602838,0,58)" href="//mall.jd.com/index-602838.html" title="龙翔通讯手机专营店">龙翔通讯手机专营店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,602838,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_11319495561"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10931271165" data-spu="10165493857" data-pid="10931271165">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10931271165.html" onclick="searchlog(1,10931271165,25,2,'','flagsClk=1883242632')" title="移动定制版全网通与全网通随机发货！！ 红米4现货">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t3487/75/1518596093/78019/f6922120/5827f070Nab757ad8.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="185259" data-template="563985_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="金色"><img data-sku="10931271165" data-img="1" data-lazy-img="//img10.360buyimg.com/n9/jfs/t3487/75/1518596093/78019/f6922120/5827f070Nab757ad8.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金色"><img data-sku="10931271166" data-img="1" width="25" height="25" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3688/15/1381759462/65818/6b869af4/5827f07dN89bd14e8.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10931271165" data-price="599.00" data-done="1"><em>￥</em><i>599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="移动定制版全网通与全网通随机发货！！ 红米4现货" href="//item.jd.com/10931271165.html" onclick="searchlog(1,10931271165,25,1,'','flagsClk=1883242632')">
+				<em>小米4A 红米4A 全网通4G<font class="skcolor_ljg">手机</font> 金色 全网通4G(2GRAM+16GROM)</em>
+				<i class="promo-words" id="J_AD_10931271165">移动定制版全网通与全网通随机发货！！ 红米4现货</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10931271165" target="_blank" href="//item.jd.com/10931271165.html#comment" onclick="searchlog(1,10931271165,25,3,'','flagsClk=1883242632')">3600+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10931271165" href="javascript:;" title="点击关注" onclick="searchlog(1,10931271165,25,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="92" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,179483,0,58)" href="//mall.jd.com/index-179483.html" title="新松联手机旗舰店">新松联手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,179483,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10931271165"><i class="goods-icons J-picon-tips" data-tips="购买本商品送赠品">赠</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10617482973" data-spu="10125227598" data-pid="10617482972">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10617482973.html" onclick="searchlog(1,10617482973,26,2,'','flagsClk=1883242632')" title="【正品国行】【电子发票】【京东发货】更多小米爆款手机，立即抢购">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img13.360buyimg.com/n7/jfs/t3439/155/1573379867/57766/20db2bc0/582be258N936afda5.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="608833" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="金色"><img data-sku="10617482973" data-img="1" data-lazy-img="//img13.360buyimg.com/n9/jfs/t3439/155/1573379867/57766/20db2bc0/582be258N936afda5.jpg" class="err-product" width="25" height="25"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10617482973" data-price="1499.00" data-done="1"><em>￥</em><i>1499.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【正品国行】【电子发票】【京东发货】更多小米爆款手机，立即抢购" href="//item.jd.com/10617482973.html" onclick="searchlog(1,10617482973,26,1,'','flagsClk=1883242632')">
+				<em><font class="skcolor_ljg">小米</font>Max <font class="skcolor_ljg">手机</font> 6.44英寸大屏<font class="skcolor_ljg">手机</font> 金色 移动4G/联通4G/电信4G(3G+32G)</em>
+				<i class="promo-words" id="J_AD_10617482973">【正品国行】【电子发票】【京东发货】更多小米爆款手机，立即抢购</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10617482973" target="_blank" href="//item.jd.com/10617482973.html#comment" onclick="searchlog(1,10617482973,26,3,'','flagsClk=1883242632')">2000+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10617482973" href="javascript:;" title="点击关注" onclick="searchlog(1,10617482973,26,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="95" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,602745,0,58)" href="//mall.jd.com/index-602745.html" title="绿森数码手机旗舰店">绿森数码手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,602745,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10617482973">
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10672650590" data-spu="10131983595" data-pid="10672650590">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10672650590.html" onclick="searchlog(1,10672650590,27,2,'','flagsClk=1883242632')" title="【正品国行】【电子发票】【京东发货】更多小米爆款手机，立即抢购">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img10.360buyimg.com/n7/jfs/t3667/79/1602771918/57662/5ba6312a/582be19fN45459b9b.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="608833" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="金色"><img data-sku="10672650590" data-img="1" data-lazy-img="//img10.360buyimg.com/n9/jfs/t3667/79/1602771918/57662/5ba6312a/582be19fN45459b9b.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="银色"><img data-sku="10672650592" data-img="1" width="25" height="25" data-lazy-img="//img12.360buyimg.com/n9/jfs/t3598/62/1581983185/54299/bfdee49c/582be1a3N4fb8aa31.jpg" class="err-product"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="幽蓝"><img data-sku="11687404909" data-img="1" width="25" height="25" data-lazy-img="//img14.360buyimg.com/n9/jfs/t4162/281/2385528179/56727/dca1efa4/58d09741N66d824c3.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10672650590" data-price="1199.00" data-done="1"><em>￥</em><i>1199.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="【正品国行】【电子发票】【京东发货】更多小米爆款手机，立即抢购" href="//item.jd.com/10672650590.html" onclick="searchlog(1,10672650590,27,1,'','flagsClk=1883242632')">
+				<em><font class="skcolor_ljg">小米</font> 红米Note4 <font class="skcolor_ljg">手机</font> 金色 移动4G/联通4G/电信4G(3G+64G)</em>
+				<i class="promo-words" id="J_AD_10672650590">【正品国行】【电子发票】【京东发货】更多小米爆款手机，立即抢购</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10672650590" target="_blank" href="//item.jd.com/10672650590.html#comment" onclick="searchlog(1,10672650590,27,3,'','flagsClk=1883242632')">2900+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10672650590" href="javascript:;" title="点击关注" onclick="searchlog(1,10672650590,27,5,'','flagsClk=1883242632')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="93" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,602745,0,58)" href="//mall.jd.com/index-602745.html" title="绿森数码手机旗舰店">绿森数码手机旗舰店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,602745,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10672650590">
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10940774346" data-spu="10166611023" data-pid="10940774346">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10940774346.html" onclick="searchlog(1,10940774346,28,2,'','flagsClk=1883243144')" title="运营商版和全网通版随机发出，均支持全网通4G！ ！爆品【红米4X】">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img11.360buyimg.com/n7/jfs/t3919/117/2463313366/96684/d4c9348e/58d0cdc0N50145a04.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="185329" data-template="558890_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="香槟金"><img data-sku="10940774346" data-img="1" data-lazy-img="//img11.360buyimg.com/n9/jfs/t3919/117/2463313366/96684/d4c9348e/58d0cdc0N50145a04.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="玫瑰金"><img data-sku="10940774347" data-img="1" width="25" height="25" data-lazy-img="//img12.360buyimg.com/n9/jfs/t4063/334/177944291/242275/73857ec6/58aee833Nc8ae47a9.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10940774346" data-price="599.00" data-done="1"><em>￥</em><i>599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="运营商版和全网通版随机发出，均支持全网通4G！ ！爆品【红米4X】" href="//item.jd.com/10940774346.html" onclick="searchlog(1,10940774346,28,1,'','flagsClk=1883243144')">
+				<em><font class="skcolor_ljg">小米</font> 红米4A 全网通4G<font class="skcolor_ljg">手机</font> 香槟金 全网通(2G RAM+16G ROM)标配</em>
+				<i class="promo-words" id="J_AD_10940774346">运营商版和全网通版随机发出，均支持全网通4G！ ！爆品【红米4X】</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10940774346" target="_blank" href="//item.jd.com/10940774346.html#comment" onclick="searchlog(1,10940774346,28,3,'','flagsClk=1883243144')">1500+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10940774346" href="javascript:;" title="点击关注" onclick="searchlog(1,10940774346,28,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="91" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,178637,0,58)" href="//mall.jd.com/index-178637.html" title="爱优创杰手机专营店">爱优创杰手机专营店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,178637,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10940774346">
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+<li class="gl-item" data-sku="10940827244" data-spu="10166618918" data-pid="10940827243">
+	<div class="gl-i-wrap">
+		<div class="p-img">
+			<a target="_blank" href="//item.jd.com/10940827244.html" onclick="searchlog(1,10940827244,29,2,'','flagsClk=1883243144')" title="5英寸高清屏幕，3120mAh大电池，磨砂金属质感。【小米5s】">
+				<img width="220" height="220" class="err-product" data-img="1" data-lazy-img="//img14.360buyimg.com/n7/jfs/t3652/152/1234526997/65813/db347278/581fe660N8e4fa054.jpg">
+			</a>
+			<div data-catid="655" data-jq="1" data-dq="1" data-venid="196522" data-template="0_n" data-done="1"></div>
+		</div>
+		<div class="p-scroll">
+			<span class="ps-prev">&lt;</span>
+			<span class="ps-next">&gt;</span>
+			<div class="ps-wrap">
+				<ul class="ps-main">
+					<li class="ps-item"><a href="javascript:;" class="curr" title="玫瑰金"><img data-sku="10940827244" data-img="1" data-lazy-img="//img14.360buyimg.com/n9/jfs/t3652/152/1234526997/65813/db347278/581fe660N8e4fa054.jpg" class="err-product" width="25" height="25"></a></li>
+										<li class="ps-item"><a href="javascript:;" title="金色"><img data-sku="10940827243" data-img="1" width="25" height="25" data-lazy-img="//img13.360buyimg.com/n9/jfs/t3589/172/1084372101/70183/72453720/581fe652N976eed75.jpg" class="err-product"></a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="p-price">
+<strong class="J_10940827244" data-price="599.00" data-done="1"><em>￥</em><i>599.00</i></strong>		</div>
+		<div class="p-name p-name-type-2">
+			<a target="_blank" title="5英寸高清屏幕，3120mAh大电池，磨砂金属质感。【小米5s】" href="//item.jd.com/10940827244.html" onclick="searchlog(1,10940827244,29,1,'','flagsClk=1883243144')">
+				<em>小米4A 红米4A <font class="skcolor_ljg">手机</font> 玫瑰金 全网通4G版(2G RAM+16G ROM)标配</em>
+				<i class="promo-words" id="J_AD_10940827244">5英寸高清屏幕，3120mAh大电池，磨砂金属质感。【小米5s】</i>
+			</a>
+		</div>
+		<div class="p-commit">
+			<strong>已有<a id="J_comment_10940827244" target="_blank" href="//item.jd.com/10940827244.html#comment" onclick="searchlog(1,10940827244,29,3,'','flagsClk=1883243144')">1700+</a>人评价</strong>
+		</div>
+		<div class="p-focus"><a class="J_focus" data-sku="10940827244" href="javascript:;" title="点击关注" onclick="searchlog(1,10940827244,29,5,'','flagsClk=1883243144')"><i></i>关注</a></div>
+		<div class="p-shop" data-selfware="0" data-score="5" data-reputation="93" data-done="1"><span class="J_im_icon"><a target="_blank" onclick="searchlog(1,189986,0,58)" href="//mall.jd.com/index-189986.html" title="谷高数码手机专营店">谷高数码手机专营店</a><b class="im-01" title="联系第三方卖家进行咨询" onclick="searchlog(1,189986,0,61)"></b></span></div>
+		<div class="p-icons" id="J_pro_10940827244"><i class="goods-icons J-picon-tips" data-tips="满指定金额即赠热销商品">满赠</i>
+			<i class="goods-icons-s1 J-picon-tips" data-tips="本商品支持货到付款">货到付款</i>
+		</div>
+		<div class="p-addtocart hide"><a data-stock-val="1" data-presale="0"></a></div>
+	</div>
+</li>
+</ul>
