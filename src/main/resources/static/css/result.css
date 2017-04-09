@@ -1,0 +1,58 @@
+html, body, content{
+    height: 100%;
+}
+
+.content{
+    width: 95%;
+    max-width: 1200px;
+    min-height: 300px;
+    margin: 0 auto;
+    /*background-color: #d9edf7;*/
+    padding: 10px;
+}
+
+.abj-card{
+    height: 400px;
+    float: left;
+    margin: 10px;
+    width: 250px;
+    border: solid 1px #b7b5b2;
+    border-radius: 5px;
+    box-shadow: 0px 0px 1px 1px rgba(100, 104, 107, 0.28);
+}
+
+.abj-thumbnail{
+    /*background-image: url("../img/panic.png");*/
+    height: 50%;
+    width: 100%;
+    background-size: 100% 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.abj-description{
+    width: 100%;
+    height: 40%;
+    padding: 10px;
+}
+
+.abj-handle-bar{
+    height: 10%;
+}
+.abj-handle-bar a{
+    display: block;
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    line-height: 37px;
+}
+#not-found-div{
+    width: 120px;
+    margin: 0 auto;
+    display: none;
+}
+#not-found-div div{
+    font-size: 20px;
+    color: #888;
+
+}
