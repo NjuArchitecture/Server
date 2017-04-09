@@ -32,7 +32,7 @@ public class CommentDataServiceImpl implements CommentDataService {
     @Override
     public List<Comment> getSomeForShow(int size) {
         int index = 0;
-        List<Comment> result = new ArrayList<Comment>(size);
+        List<Comment> result = new ArrayList<>(size);
         for (Comment comment : commentRepository.findAll()) {
             result.add(comment);
             index++;

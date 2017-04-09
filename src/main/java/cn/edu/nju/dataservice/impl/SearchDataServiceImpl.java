@@ -15,6 +15,7 @@ import org.springframework.data.elasticsearch.core.query.SearchQuery;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
@@ -42,7 +43,10 @@ public class SearchDataServiceImpl implements SearchDataService {
 
     @Override
     public List<GoodInfo> search(String key) {
-       return searchWithMultiKeyWords(getKeys(key));
+//       return searchWithMultiKeyWords(getKeys(key));
+
+        return searchDataRepository.findByTitleInOrDescriptionIn(getKeys(key), getKeys(key));
+
     }
 
     @Override
@@ -53,14 +57,17 @@ public class SearchDataServiceImpl implements SearchDataService {
 
     @Override
     public List<GoodInfo> searchInTitle(String key) {
-        return searchWithMultiKeyWords(TITLE, getKeys(key));
+//        return searchWithMultiKeyWords(TITLE, getKeys(key));
 
+        return searchDataRepository.findByTitleIn(getKeys(key));
     }
 
     @Override
     public List<GoodInfo> searchInDescription(String key) {
 
-            return searchWithMultiKeyWords(DESCRIPTION, getKeys(key));
+//            return searchWithMultiKeyWords(DESCRIPTION, getKeys(key));
+
+        return searchDataRepository.findByDescriptionIn(getKeys(key));
     }
 
     @Override
@@ -70,14 +77,26 @@ public class SearchDataServiceImpl implements SearchDataService {
         return goodInfos;
     }
 
-    private static List<String> getKeys(String key) {
+    private static Collection<String> getKeys(String key) {
         String[] splits = key.split(" ");
         List<String> keys = new ArrayList<>(splits.length);
         Collections.addAll(keys, splits);
         return keys;
     }
 
-    private List<GoodInfo> searchWithMultiKeyWords(String field , List<String> keys) {
+
+
+    @Override
+    public void empty() {
+        searchDataRepository.deleteAll();
+    }
+
+
+
+
+
+    // Deprecated method, futile now
+    private List<GoodInfo> searchWithMultiKeyWords(String field , Collection<String> keys) {
         NativeSearchQueryBuilder builder = new NativeSearchQueryBuilder();
 
         for (String key: keys) {
@@ -89,7 +108,7 @@ public class SearchDataServiceImpl implements SearchDataService {
     }
 
 
-    private List<GoodInfo> searchWithMultiKeyWords(List<String> keys) {
+    private List<GoodInfo> searchWithMultiKeyWords(Collection<String> keys) {
         NativeSearchQueryBuilder builder = new NativeSearchQueryBuilder();
 
         for (String key: keys) {
@@ -98,12 +117,10 @@ public class SearchDataServiceImpl implements SearchDataService {
         for (String key: keys) {
             builder.withQuery(fuzzyQuery(DESCRIPTION, key));
         }
-        return elasticsearchTemplate.queryForList(builder.build(), GoodInfo.class);
-    }
+        List<GoodInfo> goodInfo = new ArrayList<>(100);
+        searchDataRepository.search(builder.build()).forEach(goodInfo::add);
 
-    @Override
-    public void empty() {
-        searchDataRepository.deleteAll();
+        return goodInfo;
     }
 
 

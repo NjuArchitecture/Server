@@ -30,6 +30,7 @@ public class SearchDataServiceTest {
     @Autowired
     SearchDataService searchDataService;
 
+
     @Autowired
     SearchDataRepository searchDataRepository;
 
@@ -41,7 +42,7 @@ public class SearchDataServiceTest {
 
     @After
     public void tearDown() throws Exception {
-//        searchDataService.empty();
+        searchDataService.empty();
     }
 
 
@@ -58,23 +59,32 @@ public class SearchDataServiceTest {
 
         goodInfos.add(new GoodInfo("asd  asdf" ,  " a huawei phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
 
-        goodInfos.add(new GoodInfo(" Huawei asdf" ,  " a huawei phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
-        goodInfos.add(new GoodInfo(" Huawei2 asdf" ,  " a huawei2 phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
-        goodInfos.add(new GoodInfo("asd Huawei3 asdf" ,  " a huawei3 phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
+        goodInfos.add(new GoodInfo(" 华为 asdf" ,  "  华为 a huawei phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
+        goodInfos.add(new GoodInfo(" 华为2 asdf czq" ,  " a huawei2 phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
+        goodInfos.add(new GoodInfo("asd Huawei3 asdf" ,  " a huawei3 phone czq" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
         goodInfos.add(new GoodInfo("asd Huawei4 asdf" ,  " a huawei4 phone" , "d" , "s" , 300, "淘宝" , "taobao.com/url"));
+
+
+
 
         searchDataService.persist(goodInfos);
     }
 
     @Test
     public void searchInTitle() throws Exception {
-//        persist();
-        List<GoodInfo> result = searchDataService.search("小米");
-//        List<GoodInfo> result2 = searchDataService.searchInTitle("huawei");
+        persist();
+        List<GoodInfo> result = searchDataService.search("华为");
+        System.out.println("\n_____________*********************\n");
+        List<GoodInfo> result2 = searchDataService.search("czq");
+
+        List<GoodInfo> result3 = searchDataRepository.findByTitleContains("华为");
 //        List<GoodInfo> result3 = searchDataService.searchInDescription("huawei");
 //        Iterable<GoodInfo> result = searchDataRepository.findAll();
         result.forEach(System.out::println);
-
+        System.out.println("\n_____________*********************\n");
+        result2.forEach(System.out::println);
+        System.out.println("\n_____________*********************\n");
+        result3.forEach(System.out::println);
 
     }
 

@@ -3,6 +3,7 @@ package cn.edu.nju.dataservice.dao;
 import cn.edu.nju.utility.GoodInfo;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
+import java.util.Collection;
 import java.util.List;
 
 /**
@@ -22,5 +23,10 @@ public interface SearchDataRepository extends ElasticsearchRepository<GoodInfo, 
 
     List<GoodInfo> findByDescriptionContains(String descriptionKey);
 
+    List<GoodInfo> findByTitleIn(Collection<String> keys);
+
+    List<GoodInfo> findByDescriptionIn(Collection<String> keys);
+
+    List<GoodInfo> findByTitleInOrDescriptionIn(Collection<String> titleKeys, Collection<String> descriptionKeys);
 
 }
