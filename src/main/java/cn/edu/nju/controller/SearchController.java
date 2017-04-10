@@ -64,16 +64,6 @@ public class SearchController {
 
     }
 
-    @RequestMapping("/getComment")
-    public List<Comment> getComment(String goodID){
-
-        if(StringUtils.isEmpty(goodID)){
-            return new ArrayList<>();
-        }
-
-        return commentService.getGoodComment(goodID);
-
-    }
 
 
 
