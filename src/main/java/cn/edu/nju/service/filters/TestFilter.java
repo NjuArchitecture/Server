@@ -1,14 +1,11 @@
+package cn.edu.nju.service.filters;
 import java.util.ArrayList;
 import java.util.List;
 
-import util.GoodInfo;
-import util.IFilter;
-import util.IPipe;
-import goodsFilter.DateSortFilter;
-import goodsFilter.Decorator;
-import goodsFilter.SaleSortFilter;
-import goodsFilter.SortFilter;
-import goodsFilter.WebsiteSortFilter;
+import cn.edu.nju.service.pipe.*;
+import cn.edu.nju.service.filters.goodsFilter.*;
+import cn.edu.nju.service.pipe.IFilter;
+import cn.edu.nju.service.pipe.IPipe;
 
 
 public class TestFilter {

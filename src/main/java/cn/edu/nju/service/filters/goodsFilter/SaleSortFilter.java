@@ -1,8 +1,8 @@
-package goodsFilter;
+package cn.edu.nju.service.filters.goodsFilter;
 
 import java.util.List;
 
-import util.IFilter;
+import cn.edu.nju.service.pipe.IFilter;
 /**
  * Created by hmy on 2017/3/12.
  */
