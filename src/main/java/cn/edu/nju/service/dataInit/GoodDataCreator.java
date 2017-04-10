@@ -66,7 +66,8 @@ public class GoodDataCreator {
         GoodInfo goodInfo = new GoodInfo();
         goodInfo.setTitle(title);
         goodInfo.setDescription(description);
-        goodInfo.setId(url);
+        //id 随机生成，不要使用固定的url
+//        goodInfo.setId(url);
         goodInfo.setPic1(pic1);
         goodInfo.setPic2(pic2);
         goodInfo.setPrice(price);
