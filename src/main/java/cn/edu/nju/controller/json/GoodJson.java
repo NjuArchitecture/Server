@@ -1,4 +1,4 @@
-package cn.edu.nju.controller;
+package cn.edu.nju.controller.json;
 
 import cn.edu.nju.utility.GoodInfo;
 

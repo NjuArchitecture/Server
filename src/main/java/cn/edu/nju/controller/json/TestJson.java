@@ -1,4 +1,4 @@
-package cn.edu.nju.controller;
+package cn.edu.nju.controller.json;
 
 /**
  * @author Qiang
@@ -6,6 +6,8 @@ package cn.edu.nju.controller;
  */
 public class TestJson {
 
-
+    int a;
+    int b;
+    int c;
 
 }

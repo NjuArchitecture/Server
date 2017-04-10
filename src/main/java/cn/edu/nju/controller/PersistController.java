@@ -1,15 +1,15 @@
 package cn.edu.nju.controller;
 
+import cn.edu.nju.controller.json.GoodJson;
 import cn.edu.nju.service.PersistService;
-import cn.edu.nju.utility.GoodInfo;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import java.util.ArrayList;
-import java.util.List;
+import javax.servlet.http.HttpServletRequest;
 
 /**
  * @author Qiang
@@ -28,11 +28,8 @@ public class PersistController {
 
 
     @ResponseBody
-    @PostMapping(value = "/persist")
-    public String persist(@RequestBody GoodJson goodInfos) {
-
-
-//        System.out.println(goodInfos);
+    @PostMapping(value = "/persist", consumes = "application/json")
+    public String persist(HttpServletRequest request , @RequestBody GoodJson goodInfos) {
 
         persistService.persist(goodInfos.getGoodInfoList());
 
