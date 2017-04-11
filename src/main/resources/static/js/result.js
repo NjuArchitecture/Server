@@ -9,7 +9,9 @@ function init() {
 }
 
 function initData() {
-    let key = location.search.split('=')[1];
+    let key = decodeURIComponent(location.search.split('=')[1]);
+    console.log('key:'+key);
+    $('#search_input').val(key);
     let url = '/search?key='+key;
     $.ajax({
         url: url,
@@ -49,16 +51,20 @@ function initData() {
 }
 
 function initEvent() {
-
+    $('#search_input').on('keydown', function (e) {
+        if(e.keyCode==13)
+            location.href = '/html/searchResult.html?goodsName='+$(this).val();
+    });
 }
 
 function addCard(data) {
-    console.log("add");
+    
     let thumbnail_url = data.pic1=='' ? '/img/smile.png' : data.pic1;
     $('#search-result').append(
         '<div class="abj-card">'+
         '<div class="abj-thumbnail" style="background-image: url('+thumbnail_url+')"></div>'+
-        '<div class="abj-description ajb-some">'+
+        '<hr>'+
+        '<div class="abj-description ajb-some">' +
         data.description+
         '</div>'+
         '<div class="abj-handle-bar">'+
