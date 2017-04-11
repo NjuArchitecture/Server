@@ -2,12 +2,13 @@ package cn.edu.nju.service.filters.goodsFilter;
 
 import java.util.List;
 
+import cn.edu.nju.service.filters.GoodInfo;
 import cn.edu.nju.service.pipe.IFilter;
 /**
  * Created by hmy on 2017/3/12.
  */
 
-public class DateSortFilter<GoodInfo> extends Decorator<GoodInfo>{
+public class DateSortFilter extends Decorator<GoodInfo>{
 	/**
 	 * 规则2:根据商品发布时间来进行排名
 	 * @param ifilter

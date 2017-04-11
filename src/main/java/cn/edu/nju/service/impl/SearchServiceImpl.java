@@ -26,6 +26,7 @@ public class SearchServiceImpl implements SearchService {
     @Override
     public List<GoodInfo> search(String key) {
         List<GoodInfo> goodInfos = searchDataService.search(key);
+
         return goodInfos;
     }
 

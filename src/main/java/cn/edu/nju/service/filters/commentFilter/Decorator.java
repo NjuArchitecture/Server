@@ -4,18 +4,18 @@ import java.util.List;
 import cn.edu.nju.service.filters.CommentInfo;
 import cn.edu.nju.service.pipe.IFilter;
 
-public class Decorator implements IFilter<CommentInfo>{
-protected IFilter<CommentInfo> filter;
+public class Decorator<T extends CommentInfo> implements IFilter<T> {
+protected IFilter<T> filter;
 	
 	public Decorator(){
 		
 	}
-	public Decorator(IFilter<CommentInfo> ifilter){
+	public Decorator(IFilter<T> ifilter){
 		this.filter=ifilter;
 	}
 	
 	@Override
-	public List<CommentInfo> doFilter(List<CommentInfo> list) {
+	public List<T> doFilter(List<T> list) {
 		// TODO Auto-generated method stub
 
 		return filter.doFilter(list);

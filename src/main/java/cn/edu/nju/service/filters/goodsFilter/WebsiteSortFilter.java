@@ -2,12 +2,13 @@ package cn.edu.nju.service.filters.goodsFilter;
 
 import java.util.List;
 
+import cn.edu.nju.service.filters.GoodInfo;
 import cn.edu.nju.service.pipe.IFilter;
 /**
  * Created by hmy on 2017/3/12.
  */
 
-public class WebsiteSortFilter<GoodInfo> extends Decorator<GoodInfo>{
+public class WebsiteSortFilter extends Decorator<GoodInfo>{
 	/**
 	 * 规则1:根据合作网站赞助费的高低来排名
 	 * @param ifilter
