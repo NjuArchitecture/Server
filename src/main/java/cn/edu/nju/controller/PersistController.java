@@ -30,7 +30,7 @@ public class PersistController {
     @ResponseBody
     @PostMapping(value = "/persist", consumes = "application/json")
     public String persist(HttpServletRequest request , @RequestBody GoodJson goodInfos) {
-
+        System.out.println(goodInfos.toString());
         persistService.persist(goodInfos.getGoodInfoList());
 
         return "Success";

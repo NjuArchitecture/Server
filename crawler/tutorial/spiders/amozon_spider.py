@@ -2,10 +2,10 @@ import scrapy
 from tutorial.items import TutorialItem
 
 
-class DmozSpider(scrapy.Spider):
+class AmozonSpider(scrapy.Spider):
     name = "dmoz"
     start_urls = [
-        "https://search.jd.com/Search?keyword=%E6%89%8B%E6%9C%BA&enc=utf-8&wq=%E6%89%8B%E6%9C%BA&pvid=e3b81c5824704815b3f25ddac26e17e1"
+        "https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=kindle"
     ]
 
     def parse(self, response):
