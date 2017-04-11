@@ -1,11 +1,8 @@
 package cn.edu.nju.service.filters;
+import cn.edu.nju.service.pipe.IPipe;
+
 import java.util.ArrayList;
 import java.util.List;
-
-import cn.edu.nju.service.pipe.*;
-import cn.edu.nju.service.filters.goodsFilter.*;
-import cn.edu.nju.service.pipe.IFilter;
-import cn.edu.nju.service.pipe.IPipe;
 
 
 public class TestFilter {
@@ -14,11 +11,11 @@ public class TestFilter {
 		/**
 		 * 自定义Filter，这里只为管道安装一个SortFilter
 		 */
-		IFilter<GoodInfo> f1=new SortFilter<GoodInfo>();
+		//IFilter<GoodInfo> f1=new SortFilter<GoodInfo>();
 		//通过decorator的链式初始化来达到自由组合过滤条件的目的
-		Decorator d1=new WebsiteSortFilter(new DateSortFilter(new SaleSortFilter(f1)));
-		List<IFilter> list=new ArrayList<>();
-		list.add(d1);
+		//Decorator d1=new WebsiteSortFilter(new DateSortFilter(new SaleSortFilter(f1)));
+		//List<IFilter> list=new ArrayList<>();
+		//list.add(d1);
 		
 		/**
 		 * 初始化管道
@@ -28,7 +25,7 @@ public class TestFilter {
 		/**
 		 * 为管道安装过滤器
 		 */
-		pipe.registerFilter(list);
+		//pipe.registerFilter(list);
 		
 		/**
 		 * 初始化待过滤数据

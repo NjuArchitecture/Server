@@ -1,6 +1,7 @@
 package cn.edu.nju.service.filters.commentFilter;
 
 import cn.edu.nju.service.filters.CommentInfo;
+import cn.edu.nju.service.filters.SensitiveWords;
 import cn.edu.nju.service.pipe.IFilter;
 
 import java.util.ArrayList;
@@ -13,14 +14,12 @@ public class SensitiveFilter implements IFilter<CommentInfo> {
 
 	@Override
 	public List<CommentInfo> doFilter(List<CommentInfo> list) {
-
-		// TODO Auto-generated method stub
 		List<CommentInfo>result_comment=new ArrayList<CommentInfo>();
 		for(CommentInfo c:list){
 			if(isSensitive(c)==false){
 				result_comment.add(c);
 			}else{
-				System.out.println("Sensitive:"+c.getId());
+				notifyAdmin(c);
 
 			}
 
@@ -41,6 +40,10 @@ public class SensitiveFilter implements IFilter<CommentInfo> {
 			}
 		}
 		return sensitive;
+	}
+
+	public static void notifyAdmin(CommentInfo c){
+		System.out.print("sensitive:"+c.getId());
 	}
 
 }

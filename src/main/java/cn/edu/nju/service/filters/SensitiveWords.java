@@ -1,4 +1,4 @@
-package cn.edu.nju.service.filters.commentFilter;
+package cn.edu.nju.service.filters;
 
 public class SensitiveWords {
 
