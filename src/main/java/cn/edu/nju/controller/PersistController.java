@@ -29,7 +29,7 @@ public class PersistController {
 
     @ResponseBody
     @PostMapping(value = "/persist", consumes = "application/json")
-    public String persist(HttpServletRequest request , @RequestBody GoodJson goodInfos) {
+    public String persist(@RequestBody GoodJson goodInfos) {
 
         persistService.persist(goodInfos.getGoodInfoList());
 
