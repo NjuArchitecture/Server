@@ -29,7 +29,7 @@ public class CommentController {
     public List<Comment> getComment(@RequestParam String goodId) {
 
         if (StringUtils.isEmpty(goodId)) {
-
+            return new ArrayList<>();
         }
 
         List<Comment> comments = commentService.getGoodComment(goodId);
