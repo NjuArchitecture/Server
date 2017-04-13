@@ -28,7 +28,7 @@ function initData() {
                 addCard(x);
             }
             $('.detail').on('click', function () {
-                let id = $(this).attr('data-id');
+                let id = $(this).attr('data-source_url');
                 for (let x of data){
                     if (x.id == id){
                         console.log("set localstorage");
@@ -70,7 +70,7 @@ function addCard(data) {
         data.description+
         '</div>'+
         '<div class="abj-handle-bar">'+
-        '<a class="detail" href="#" data-id='+data.id+'>详情</a>'+
+        '<a class="detail" href="#" data-source_url='+data.sourceURL+'>详情</a>'+
         '<a href="#">购买</a>'+
         '</div>'+
         '</div>');
