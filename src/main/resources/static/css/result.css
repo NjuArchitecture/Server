@@ -36,8 +36,8 @@ html, body, content{
     height: 50%;
     width: 100%;
     background-size: 100% 100%;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    /*border-top-left-radius: 5px;*/
+    /*border-top-right-radius: 5px;*/
 }
 .abj-description{
     width: 100%;
