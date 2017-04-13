@@ -19,9 +19,11 @@ public class BusinessFilter extends Decorator<CommentInfo>{
     public BusinessFilter(IFilter ifilter){
         super(ifilter);
     }
+    public BusinessFilter(){
+
+    }
     public List<CommentInfo> doFilter(List<CommentInfo> list) {
-        // TODO Auto-generated method stub
-        return sortByBusinessWords(filter.doFilter(list));
+        return sortByBusinessWords(list);
     }
     public List<CommentInfo> sortByBusinessWords(List<CommentInfo> list){
         List<CommentBusinessInfo> cblist=new ArrayList<CommentBusinessInfo>();

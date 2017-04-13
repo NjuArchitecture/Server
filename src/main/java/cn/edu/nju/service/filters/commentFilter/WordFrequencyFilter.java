@@ -20,6 +20,10 @@ public class WordFrequencyFilter extends Decorator<CommentInfo>{
         super(ifilter);
     }
 
+    public WordFrequencyFilter() {
+
+    }
+
     public List<CommentInfo> doFilter(List<CommentInfo> list) {
         List<CommentInfo>result=new ArrayList<CommentInfo>();
         for(CommentInfo c:list){
