@@ -30,7 +30,7 @@ function initData() {
             $('.detail').on('click', function () {
                 let id = $(this).attr('data-source_url');
                 for (let x of data){
-                    if (x.id == id){
+                    if (x.sourceURL == id){
                         console.log("set localstorage");
                         localStorage.setItem('abj-description', x.description);
                         localStorage.setItem('abj-id', x.id);

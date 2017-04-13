@@ -20,6 +20,7 @@ import java.util.List;
  * @since 2017/4/8
  */
 @Controller
+@ResponseBody
 public class CommentController {
 
     @Autowired

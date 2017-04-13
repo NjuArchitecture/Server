@@ -31,8 +31,8 @@ public class PersistController {
     @PostMapping(value = "/persist", consumes = "application/json")
     public String persist(@RequestBody GoodJson goodInfos) {
 
-        persistService.persist(goodInfos.getGoodInfoList());
-
+//        persistService.persist(goodInfos.getGoodInfoList());
+        System.out.println(goodInfos);
         return "Success";
     }
 
