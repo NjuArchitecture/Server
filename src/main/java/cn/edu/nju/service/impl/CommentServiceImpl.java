@@ -4,6 +4,7 @@ import cn.edu.nju.dataservice.CommentDataService;
 import cn.edu.nju.service.CommentService;
 import cn.edu.nju.utility.Comment;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

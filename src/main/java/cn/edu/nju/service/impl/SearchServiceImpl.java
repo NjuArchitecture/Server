@@ -4,6 +4,7 @@ import cn.edu.nju.dataservice.SearchDataService;
 import cn.edu.nju.service.SearchService;
 import cn.edu.nju.utility.GoodInfo;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -25,9 +26,7 @@ public class SearchServiceImpl implements SearchService {
 
     @Override
     public List<GoodInfo> search(String key) {
-        List<GoodInfo> goodInfos = searchDataService.search(key);
-
-        return goodInfos;
+        return searchDataService.search(key);
     }
 
     @Override

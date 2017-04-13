@@ -3,6 +3,7 @@ package cn.edu.nju.controller;
 import cn.edu.nju.service.CommentService;
 import cn.edu.nju.utility.Comment;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -26,6 +27,7 @@ public class CommentController {
 
     @RequestMapping("/getComment")
     @ResponseBody
+    @Cacheable(value = "commentCache", keyGenerator = "wiselyKeyGenerator")
     public List<Comment> getComment(@RequestParam String goodId) {
 
         if (StringUtils.isEmpty(goodId)) {
