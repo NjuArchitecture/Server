@@ -29,6 +29,7 @@ public class CacheDataRepository {
         for (String s:set) {
             Map<Object, Object> maps = stringRedisTemplate.opsForHash().entries(s);
             GoodInfo good = new GoodInfo();
+            good.setId((String) maps.get("id"));
             good.setTitle((String) maps.get("title"));
             good.setDescription((String) maps.get("description"));
             good.setPic1((String) maps.get("pic1"));
