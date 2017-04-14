@@ -26,4 +26,11 @@ public class GoodJson {
     public void setGoodInfoList(List<GoodInfo> goodInfoList) {
         this.goodInfoList = goodInfoList;
     }
+
+    @Override
+    public String toString() {
+        return "GoodJson{" +
+                "goodInfoList=" + goodInfoList +
+                '}';
+    }
 }

@@ -5,7 +5,8 @@ html, body{
 
 }
 .title-name-c{
-    float: left;
+    /*float: left;*/
+    display: inline-block;
     font-size: 80px;
     margin: 0 5px;
     font-weight: 800;
@@ -29,7 +30,8 @@ html, body{
 .title-wraper{
     margin: 0 auto;
     height: 100px;
-    width: 275px;
+    /*width: 275px;*/
+    text-align: center;
 }
 #search-input{
     width: 100%;

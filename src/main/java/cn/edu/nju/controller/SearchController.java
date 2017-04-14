@@ -52,6 +52,9 @@ public class SearchController {
             return result;
         }
 
+        if("".equals(key)){}
+
+
         return searchService.search(key);
 
     }
@@ -82,6 +85,7 @@ public class SearchController {
         if(StringUtils.isEmpty(key)){
             return new ArrayList<>();
         }
+
 
         return searchService.searchInDescription(key);
 
