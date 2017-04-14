@@ -42,7 +42,7 @@ public class SearchDataServiceTest {
 
     @After
     public void tearDown() throws Exception {
-        searchDataService.empty();
+//        searchDataService.empty();
     }
 
 
@@ -50,6 +50,7 @@ public class SearchDataServiceTest {
 
     @Test
     public void search() throws Exception {
+        System.out.println(searchDataRepository.count());
     }
 
     @Test
@@ -72,12 +73,12 @@ public class SearchDataServiceTest {
 
     @Test
     public void searchInTitle() throws Exception {
-        persist();
-        List<GoodInfo> result = searchDataService.search("华为");
+//        persist();
+        List<GoodInfo> result = searchDataService.search("小米");
         System.out.println("\n_____________*********************\n");
         List<GoodInfo> result2 = searchDataService.search("czq");
 
-        List<GoodInfo> result3 = searchDataRepository.findByTitleContains("华为");
+        List<GoodInfo> result3 = searchDataRepository.findByTitleContains("小米");
 //        List<GoodInfo> result3 = searchDataService.searchInDescription("huawei");
 //        Iterable<GoodInfo> result = searchDataRepository.findAll();
         result.forEach(System.out::println);
